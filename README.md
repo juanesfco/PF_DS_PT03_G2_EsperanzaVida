@@ -1,5 +1,7 @@
 # PF_DS_PT03_G2_EsperanzaVida
 
+Following the requisites on the [Project Description](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/esperanza_vida.md).
+
 ## Main Requisites
 
 Must:

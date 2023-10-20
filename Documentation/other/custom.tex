@@ -1,0 +1,48 @@
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+%% custom.tex gets loaded if it exists by rureport.cls
+%% Put your local macros and shortcuts here so that when updates to rureport.cls
+%%   happen, you don't lose them.
+
+%% Commonly used notation/abbrevs, converted into latex commands:
+\renewcommand{\d}[1]{\;\textsf{d}#1}
+\newcommand{\pd}[1]{\partial #1}
+\newcommand{\D}{\;\textsf{D}}
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
+
+%% Extremely common abbreviations using the siunitx package
+\newcommand{\SIkg}[1]{\SI{#1}{\kilo\gram}}
+\newcommand{\SIma}[1]{\SI{#1}{\milli\ampere}}
+\newcommand{\SIA}[1]{SI{#1}{\ampere\xspace}}
+
+%% Math nototation
+\newcommand{\realset}{\ensuremath{\mathbb{R}}}
+\newcommand{\intset}{\ensuremath{\mathbb{Z}}}
+\newcommand{\ratset}{\ensuremath{\mathbb{Q}}}
+
+%% Axiomatic Design formulas
+%% Typeset the Axiomatic symbols properly
+\newcommand\CN[1]{\ensuremath{\text{CN}_{#1}}}
+\newcommand\CA[1]{\ensuremath{\text{CA}_{#1}}}
+\newcommand\FR[1]{\ensuremath{\text{FR}_{#1}}}
+\newcommand\DP[1]{\ensuremath{\text{DP}_{#1}}}
+\newcommand\PV[1]{\ensuremath{\text{PV}_{#1}}}
+\newcommand\C[1]{\ensuremath{\text{C}_{#1}}}
+
+
+%% Common way to make a centered picture that
+%% has a caption, label, and is centered 
+\newcommand{\cfigure}[2]{\begin{figure}[h]
+\centering %
+\includegraphics{#1}%
+\caption{#2\label{fig:#1}}%
+\end{figure}%
+}
+\newcommand{\cfiguresize}[3]{\begin{figure}[h]
+\centering %
+\includegraphics[#3]{#1}%
+\caption{#2\label{fig:#1}}%
+\end{figure}%
+}

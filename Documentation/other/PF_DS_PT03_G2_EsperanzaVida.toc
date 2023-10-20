@@ -1,0 +1,41 @@
+\contentsline {section}{Acknowledgments}{4}{table.caption.1}%
+\contentsline {section}{Abstract}{5}{table.caption.1}%
+\contentsline {section}{\numberline {1}Problem Statement}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Literature Survey}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}State Customer-Defined Constraints and Given Requirements}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}State Customer Need(s)}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Define Use Case(s)}{6}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}System Boundary}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Interface Requirements and Definition}{6}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Conceptual Designs}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Product System Design Decomposition}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Conceptual Design Alternatives}{8}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Evaluation of Design Alternatives}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Criteria for Selection and Testing Among Alternatives}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Design Alternatives Validation Plan}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Detailed Design}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Design Description and Drawings}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Analysis and Calculations}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Evaluation}{11}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Cost}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Bill of Materials}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Cost Estimate}{12}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Risk Mitigation, Design FMEA, and Test Plan}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Risk Mitigation}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Design FMEA}{13}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Test Plan for Selected Design Alternative}{13}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Verification Tests}{13}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Validation Tests}{13}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Test Apparatus for Each Test}{13}{subsubsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.4}Test Schedule}{13}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Test Results (Second Semester)}{14}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}Verification Results}{14}{subsubsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.2}Validation Results}{14}{subsubsection.6.5.2}%
+\contentsline {section}{\numberline {7}Project Plan and Timeline}{15}{section.7}%
+\contentsline {section}{Conclusions and Lessons Learned}{16}{section.7}%
+\contentsline {section}{References}{17}{section.7}%
+\contentsline {section}{Appendices}{18}{section.7}%
+\contentsline {section}{\numberline {A.}Product System Design Decomposition}{18}{appendix.A}%
+\contentsline {section}{\numberline {B.}Design Drawings/Schematics}{19}{appendix.B}%
+\contentsline {section}{\numberline {C.}Proof of Material Purchases}{20}{appendix.C}%
+\contentsline {section}{\numberline {D.}Other}{21}{appendix.D}%

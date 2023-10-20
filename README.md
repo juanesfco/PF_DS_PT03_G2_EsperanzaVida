@@ -1,81 +1,81 @@
 # PF_DS_PT03_G2_EsperanzaVida
 
-## Requisitos Principales
+## Main Requisites
 
-Debemos:
+Must:
 
-- Pensar que somos una consultora de datos.
-- Identificar factores que tienen incidencia en el resultado del indicador "esperanza de vida".
-- Trabajar con al menos 10 datasets del [Banco Mundial](https://databank.worldbank.org/databases).
-- Usar otras fuentes de datos (al menos 2), externas al Banco Mundial para complementar los datos.
-- Implementar un API para descargar los datos del Banco Mundial.
-- Descartar factores biológicos y enfocarse en los socioeconómicos (Sugerencia).
-- Tomar en cuenta cuestiones culturales, hábitos humanos, acceso a la salud, brecha de género, entre otras índoles (Opcional).
-- Redactar un README con el resumen del proyecto.
-- Documentar absolutamente todo en un archivo PDF aparte.
-- Trabajar con al menos 30 Estados.
-- Estudiar al menos 30 años.
+- Think that we are a data consulting firm.
+- Identify factors that influence the "life expectancy" indicator.
+- Work with at least 10 datasets from the [World Bank](https://databank.worldbank.org/databases).
+- Use other data sources (at least 2) external to the World Bank to supplement the data.
+- Implement an API to download data from the World Bank.
+- Exclude biological factors and focus on socio-economic factors (Suggestion).
+- Consider cultural issues, human habits, access to healthcare, gender gap, among other aspects (Optional).
+- Create a README with a project summary.
+- Document everything in a separate PDF file.
+- Work with at least 30 countries.
+- Study for at least 30 years.
 
-## Hitos
+## Milestones
 
 ### Sprint 1
 
-Tener definido:
+Have defined:
 
-- Objetivos específicos del grupo
-- Al menos 5 KPIs
-- Tecnologías a usar
-- Documento de alcance (y fuera de) del proyecto
-- EDA Preliminar, calidad del dato
-- Repositorio Github.
-- Implementación Stack Propuesto
-- Planificación y estimación de esfuerzos. Diagrama Gantt.
-- Metodología de trabajo
-- Roles y responsabilidades
+- Specific objectives of the group.
+- At least 5 Key Performance Indicators (KPIs).
+- Technologies to be used.
+- Project scope (and out of scope) document.
+- Preliminary Exploratory Data Analysis (EDA), data - quality.
+- GitHub repository.
+- Proposed technology stack implementation.
+- Planning and effort estimation. Gantt chart.
+- Work methodology.
+- Roles and responsibilities.
 
 ### Sprint 2
 
-Haber trabajado:
+Have worked on:
 
-- Diseño adecuado del Modelo ER
-- Documentación
-- Arquitectura propuesta y diagrama
-- Diccionario de datos
-- Análisis de Datos de Muestra
-- MVP Dashboard
-- Modelos y MVP producto ML
-- Datawarehouse automatizado con carga inicial.
-- Pipelines para alimentar el DW
-- Validación de datos
-- Al menos 2 tablas de hechos y 5 dimensionales
-- Carga Incremental de Datos (puede ser en video)
-- Uso de herramientas Big Data como HDFS, Hive, Spark y/o motores No-SQL y/o servicios cloud
+- Proper design of the Entity-Relationship (ER) model.
+- Documentation.
+- Proposed architecture and diagram.
+- Data dictionary.
+- Sample Data Analysis.
+- Minimum Viable Product (MVP) Dashboard.
+- Machine Learning models and MVP product.
+- Automated Data Warehouse with initial loading.
+- Pipelines for feeding the Data Warehouse.
+- Data validation.
+- At least 2 fact tables and 5 dimensional tables.
+- Incremental Data Loading (could be in video format).
+- Use of Big Data tools such as HDFS, Hive, Spark, and/or No-SQL databases, and/or cloud services.
 
 ### Sprint 3
 
-Tener listo:
+Have completed:
 
-- Dashboard final
-- Reportes
-- Storytelling
-- Producto ML
-- Ajustes necesarios al modelo
-- Demo general del proyecto
-- Documentación
-- Insights encontrados sobre el negocio
-- Recomendaciones de negocio
-- Relacionar KPI’s con datos hallados y relevantes
-- Retomar hitos presentados en las anteriores demos
-- Retoques finales en base a recomendaciones de HM y PO
-- Implementar modelo de Machine Learning
-- Plus de cada proyecto
-- Implementar un reporte con visualización geográfica (si aplica)
+- Final Dashboard.
+- Reports.
+- Storytelling.
+- ML Product.
+- Necessary model adjustments.
+- General project demo.
+- Documentation.
+- Business insights discovered.
+- Business recommendations.
+- Linking KPIs with relevant data.
+- Reviewing milestones presented in previous demos.
+- Final refinements based on feedback from the Head Manager (HM) and Product Owner (PO).
+- Implementing the Machine Learning model.
+- Project-specific extras.
+- Implementing a report with geographical visualization (if applicable).
 
-### Última Demo
+### Last Demo
 
-Presentar:
+Present:
 
-- Demo general de todo el proyecto
-- Entregable final
-- Documentacion
-- Video del proyecto para la graduación
+- General project demo.
+- Final deliverable.
+- Documentation.
+- Project video for graduation.

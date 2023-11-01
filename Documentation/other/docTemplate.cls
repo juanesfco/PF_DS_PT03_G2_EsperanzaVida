@@ -244,10 +244,10 @@
 \newcommand{\title@docTemplate}{Report Template}
 \newcommand{\shorttitle@docTemplate}{Template}
 \newcommand{\author@docTemplate}{Juan E Florez-Coronel}
-\newcommand{\advisor@docTemplate}{Student}
+\newcommand{\po@docTemplate}{Owner}
 \newcommand{\henrymentor@docTemplate}{Course Student:}
 \newcommand{\course@docTemplate}{HENRY Data Science Part Time 3}
-\newcommand{\revision@docTemplate}{Revision 0.0}
+\newcommand{\revision@docTemplate}{Revision 1.0}
 
 \newcommand{\formatemail}[1]{$<$\texttt{#1}$>$}
 
@@ -257,7 +257,7 @@
 % assume that the short title should be same as normal title unless specified
 \renewcommand{\author}[1]{\renewcommand{\author@docTemplate}{#1}}
 
-\newcommand{\advisor}[1]{\renewcommand{\advisor@docTemplate}{Project Advisors: \\#1}}
+\newcommand{\po}[1]{\renewcommand{\po@docTemplate}{Product Owner: \\#1}}
 
 \newcommand{\henrymentor}[1]{\renewcommand{\henrymentor@docTemplate}{Henry Mentor: \\#1}}
 
@@ -277,7 +277,7 @@
       \vspace{\baselineskip}
       \large\author@docTemplate\\
       \vfil
-      \normalsize\advisor@docTemplate\\
+      \normalsize\po@docTemplate\\
       \vspace{\baselineskip}
       \normalsize\henrymentor@docTemplate\\
       \vspace{\baselineskip}

@@ -35,6 +35,8 @@ Have defined:
 - Work methodology.
 - Roles and responsibilities.
 
+[Presentation Sprint 1](https://docs.google.com/presentation/d/1pUb3gqkp1Wir2-lxi2QUxNd-KVuYR7iF1GJpuHLuXmk/edit?usp=sharing)
+
 ### Sprint 2
 
 Have worked on:

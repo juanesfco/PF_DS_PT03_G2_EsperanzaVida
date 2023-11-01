@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  1 NOV 2023 16:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  1 NOV 2023 19:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -873,7 +873,7 @@ Package hyperref Info: Link coloring OFF on input line 14.
 \@outlinefile=\write7
 \openout7 = `PF_DS_PT03_G2_EsperanzaVida.out'.
 
-<graphics//henryLogo.png, id=164, 328.97906pt x 127.97812pt>
+<graphics//henryLogo.png, id=48, 328.97906pt x 127.97812pt>
 File: graphics//henryLogo.png Graphic file (type png)
 <use graphics//henryLogo.png>
 Package pdftex.def Info: graphics//henryLogo.png  used on input line 16.
@@ -897,67 +897,54 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 \openout5 = `PF_DS_PT03_G2_EsperanzaVida.ist'.
 
-{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/base/8r.enc} <./graphics//henryLogo.png>] (./PF_DS_PT03_G2_EsperanzaVida.toc [2
-
-{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}])
+{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/base/8r.enc} <./graphics//henryLogo.png>] (./PF_DS_PT03_G2_EsperanzaVida.toc)
 \tf@toc=\write8
 \openout8 = `PF_DS_PT03_G2_EsperanzaVida.toc'.
 
- (./PF_DS_PT03_G2_EsperanzaVida.lot)
+ [2
+
+{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./PF_DS_PT03_G2_EsperanzaVida.lot)
 \tf@lot=\write9
 \openout9 = `PF_DS_PT03_G2_EsperanzaVida.lot'.
 
- (./PF_DS_PT03_G2_EsperanzaVida.lof)
+ [3] (./PF_DS_PT03_G2_EsperanzaVida.lof)
 \tf@lof=\write10
 \openout10 = `PF_DS_PT03_G2_EsperanzaVida.lof'.
 
- (./PF_DS_PT03_G2_EsperanzaVida.gls [3]) [4] [5
-
-] [6]
-<graphics//System_Boundary.png, id=244, 822.82407pt x 583.93156pt>
-File: graphics//System_Boundary.png Graphic file (type png)
-<use graphics//System_Boundary.png>
-Package pdftex.def Info: graphics//System_Boundary.png  used on input line 80.
-(pdftex.def)             Requested size: 250.24199pt x 177.58653pt.
- [7] [8 <./graphics//System_Boundary.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-
-LaTeX Warning: Reference `Alternatives_Tree' on page 9 undefined on input line 122.
-
-[9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
-
-] [14] [15
+ [4] (./PF_DS_PT03_G2_EsperanzaVida.gls) [5] [6
 
 ]
+<graphics//topics.png, id=105, 225.84375pt x 484.81125pt>
+File: graphics//topics.png Graphic file (type png)
+<use graphics//topics.png>
+Package pdftex.def Info: graphics//topics.png  used on input line 86.
+(pdftex.def)             Requested size: 200.19054pt x 429.7644pt.
+<graphics//economies.png, id=106, 811.03pt x 304.13625pt>
+File: graphics//economies.png Graphic file (type png)
+<use graphics//economies.png>
+Package pdftex.def Info: graphics//economies.png  used on input line 95.
+(pdftex.def)             Requested size: 450.43253pt x 168.91362pt.
+<graphics//st_factors.png, id=107, 461.725pt x 243.91125pt>
+File: graphics//st_factors.png Graphic file (type png)
+<use graphics//st_factors.png>
+Package pdftex.def Info: graphics//st_factors.png  used on input line 104.
+(pdftex.def)             Requested size: 350.33727pt x 185.06927pt.
+<graphics//Nan.png, id=108, 476.2593pt x 357.0138pt>
+File: graphics//Nan.png Graphic file (type png)
+<use graphics//Nan.png>
+Package pdftex.def Info: graphics//Nan.png  used on input line 117.
+(pdftex.def)             Requested size: 350.33727pt x 262.6226pt.
+ [7
 
-LaTeX Warning: Citation `gelman2013bayesian' on page 16 undefined on input line 260.
+ <./graphics//topics.png>] [8 <./graphics//economies.png> <./graphics//st_factors.png>] [9 <./graphics//Nan.png>]
+<graphics//gaant.png, id=127, 1134.73938pt x 562.1pt>
+File: graphics//gaant.png Graphic file (type png)
+<use graphics//gaant.png>
+Package pdftex.def Info: graphics//gaant.png  used on input line 141.
+(pdftex.def)             Requested size: 500.484pt x 247.91656pt.
+ [10
 
-
-LaTeX Warning: Citation `lindquist2008statistical' on page 16 undefined on input line 260.
-
-[16
-
-]
-No file PF_DS_PT03_G2_EsperanzaVida.bbl.
-[17
-
-
-] [18
-
-] [19
-
-]
+ <./graphics//gaant.png>]
 
 FiXme Summary: Number of notes: 0,
 (FiXme)        Number of warnings: 0,
@@ -965,12 +952,9 @@ FiXme Summary: Number of notes: 0,
 (FiXme)        Number of fatal errors: 0,
 (FiXme)        Total: 0.
 
-[20
+[11
 
 ] (./PF_DS_PT03_G2_EsperanzaVida.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -980,25 +964,28 @@ Package rerunfilecheck Warning: File `PF_DS_PT03_G2_EsperanzaVida.out' has chang
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `PF_DS_PT03_G2_EsperanzaVida.out':
-(rerunfilecheck)             Before: D80CF6FD8C4DB30A203CFBD7B44BBF40;7204
-(rerunfilecheck)             After:  CBBB3F86074381CC18DB5B4DA525FA32;7194.
+(rerunfilecheck)             Before: EEF61EDC8292B1F64E98935A97A522E1;1530
+(rerunfilecheck)             After:  6980ABCFD1CA673CAD4AB2EAFBEBD0F4;1530.
  ) 
 Here is how much of TeX's memory you used:
- 26689 strings out of 476025
- 499875 string characters out of 5779036
- 1863388 words of memory out of 5000000
- 46625 multiletter control sequences out of 15000+600000
- 561881 words of font info for 99 fonts, out of 8000000 for 9000
+ 26679 strings out of 476025
+ 499911 string characters out of 5779036
+ 1859388 words of memory out of 5000000
+ 46646 multiletter control sequences out of 15000+600000
+ 552253 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 109i,12n,131p,2355b,1209s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,11n,131p,2355b,928s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{figure.caption.2} has been referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{table.caption.6} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.caption.7} has been referenced but does not exist, replaced by a fixed one
 
 </opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on PF_DS_PT03_G2_EsperanzaVida.pdf (20 pages, 243548 bytes).
+Output written on PF_DS_PT03_G2_EsperanzaVida.pdf (11 pages, 509901 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
- 311 compressed objects within 4 object streams
- 62 named destinations out of 1000 (max. 500000)
- 339 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 174 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 119 words of extra memory for PDF output out of 10000 (max. 10000000)
 

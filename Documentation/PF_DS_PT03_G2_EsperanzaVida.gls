@@ -1,12 +1,6 @@
 \glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
 \begin{theglossary}\glossaryheader
-\glsgroupheading{C}\relax \glsresetentrylist %
-\glossentry{csd}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{3}}}\glsgroupskip
-\glsgroupheading{F}\relax \glsresetentrylist %
-\glossentry{fr}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{3}}}\glsgroupskip
-\glsgroupheading{P}\relax \glsresetentrylist %
-\glossentry{ps}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{3}}}%
+\glsgroupheading{G}\relax \glsresetentrylist %
+\glossentry{gdp}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{6}}}%
 \end{theglossary}\glossarypostamble

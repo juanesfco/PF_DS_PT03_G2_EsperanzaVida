@@ -81,3 +81,5 @@ Present:
 - Final deliverable.
 - Documentation.
 - Project video for graduation.
+
+['USA','CHN','JPN','AUS','DEU','CHE','ESP','CAN','FRA','NOR','KOR','NZE','FIN','GBR','SGP','IND','ARG','BRA','URY','CHL','BOL','PER','CUB','VEN','MEX','COL','PRI','SLV','QAT','SYR']

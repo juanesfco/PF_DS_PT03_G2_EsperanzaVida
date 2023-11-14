@@ -1,5 +1,3 @@
 TsvHttpData-1.0
-http://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json
-http://api.worldbank.org/v2/country/all/indicator/AG.AGR.TRAC.NO?format=json
-https://raw.githubusercontent.com/juanesfco/PF_DS_PT03_G2_EsperanzaVida/main/RawData/Parquet/economies.parquet
-https://raw.githubusercontent.com/juanesfco/PF_DS_PT03_G2_EsperanzaVida/main/RawData/Parquet/topics.parquet
+http://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=jsonstat
+https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?downloadformat=csv

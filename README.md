@@ -1,6 +1,7 @@
 # PF_DS_PT03_G2_EsperanzaVida
 
 Following the requisites on the [Project Description](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/esperanza_vida.md).
+Web page of the project [planyourage.site](http://www.planyourage.site/)
 
 ## Main Requisites
 
@@ -54,6 +55,8 @@ Have worked on:
 - At least 2 fact tables and 5 dimensional tables.
 - Incremental Data Loading (could be in video format).
 - Use of Big Data tools such as HDFS, Hive, Spark, and/or No-SQL databases, and/or cloud services.
+
+[Presentation Sprint 2](https://docs.google.com/presentation/d/1F_wdeTkU0gY0QMIVMa2L5YlaUPRAYAv0Ixwla1Bgliw/edit?usp=sharing)
 
 ### Sprint 3
 

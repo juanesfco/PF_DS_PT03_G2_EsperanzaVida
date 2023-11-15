@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  15 NOV 2023 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  15 NOV 2023 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -896,7 +896,7 @@ Package hyperref Info: Link coloring OFF on input line 14.
 \@outlinefile=\write7
 \openout7 = `PF_DS_PT03_G2_EsperanzaVida.out'.
 
-<graphics//henryLogo.png, id=48, 328.97906pt x 127.97812pt>
+<graphics//henryLogo.png, id=64, 328.97906pt x 127.97812pt>
 File: graphics//henryLogo.png Graphic file (type png)
 <use graphics//henryLogo.png>
 Package pdftex.def Info: graphics//henryLogo.png  used on input line 16.
@@ -982,7 +982,7 @@ LaTeX Info: Redefining \% on input line 73.
 LaTeX Info: Redefining \. on input line 76.
 LaTeX Info: Redefining \% on input line 76.
  [6]
-<graphics//topics.png, id=106, 225.84375pt x 484.81125pt>
+<graphics//topics.png, id=127, 225.84375pt x 484.81125pt>
 File: graphics//topics.png Graphic file (type png)
 <use graphics//topics.png>
 Package pdftex.def Info: graphics//topics.png  used on input line 88.
@@ -1000,17 +1000,17 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 [7
 
  <./graphics//topics.png>]
-<graphics//economies.png, id=113, 811.03pt x 304.13625pt>
+<graphics//economies.png, id=134, 811.03pt x 304.13625pt>
 File: graphics//economies.png Graphic file (type png)
 <use graphics//economies.png>
 Package pdftex.def Info: graphics//economies.png  used on input line 99.
 (pdftex.def)             Requested size: 450.43253pt x 168.91362pt.
-<graphics//st_factors.png, id=114, 461.725pt x 243.91125pt>
+<graphics//st_factors.png, id=135, 461.725pt x 243.91125pt>
 File: graphics//st_factors.png Graphic file (type png)
 <use graphics//st_factors.png>
 Package pdftex.def Info: graphics//st_factors.png  used on input line 108.
 (pdftex.def)             Requested size: 350.33727pt x 185.06927pt.
-<graphics//Nan.png, id=115, 476.2593pt x 357.0138pt>
+<graphics//Nan.png, id=136, 476.2593pt x 357.0138pt>
 File: graphics//Nan.png Graphic file (type png)
 <use graphics//Nan.png>
 Package pdftex.def Info: graphics//Nan.png  used on input line 121.
@@ -1037,16 +1037,46 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.57593pt}.
 
 [9 <./graphics//Nan.png>]
-<graphics//gaant.png, id=127, 1134.73938pt x 562.1pt>
+LaTeX Info: Redefining \. on input line 145.
+LaTeX Info: Redefining \% on input line 145.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 15.57593pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.57593pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.57593pt}.
+
+[10
+
+]
+LaTeX Info: Redefining \. on input line 190.
+LaTeX Info: Redefining \% on input line 190.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 15.57593pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.57593pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.57593pt}.
+
+[11]
+<graphics//gaant.png, id=164, 1134.73938pt x 562.1pt>
 File: graphics//gaant.png Graphic file (type png)
 <use graphics//gaant.png>
-Package pdftex.def Info: graphics//gaant.png  used on input line 145.
+Package pdftex.def Info: graphics//gaant.png  used on input line 209.
 (pdftex.def)             Requested size: 500.484pt x 247.91656pt.
-LaTeX Info: Redefining \. on input line 151.
-LaTeX Info: Redefining \% on input line 151.
- [10
+LaTeX Info: Redefining \. on input line 221.
+LaTeX Info: Redefining \% on input line 221.
+ [12
 
  <./graphics//gaant.png>]
+LaTeX Info: Redefining \. on input line 239.
+LaTeX Info: Redefining \% on input line 239.
+ [13]
+LaTeX Info: Redefining \. on input line 258.
+LaTeX Info: Redefining \% on input line 258.
+ [14]
 
 FiXme Summary: Number of notes: 0,
 (FiXme)        Number of warnings: 0,
@@ -1054,30 +1084,58 @@ FiXme Summary: Number of notes: 0,
 (FiXme)        Number of fatal errors: 0,
 (FiXme)        Total: 0.
 
-LaTeX Info: Redefining \. on input line 204.
-LaTeX Info: Redefining \% on input line 204.
-[11
-
-] (./PF_DS_PT03_G2_EsperanzaVida.aux
+LaTeX Info: Redefining \. on input line 331.
+LaTeX Info: Redefining \% on input line 331.
+[15] (./PF_DS_PT03_G2_EsperanzaVida.aux
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
 )
-Package rerunfilecheck Info: File `PF_DS_PT03_G2_EsperanzaVida.out' has not changed.
-(rerunfilecheck)             Checksum: 0FDA913B77C892E8AF5F01A9D2BB54D9;1719.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `PF_DS_PT03_G2_EsperanzaVida.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `PF_DS_PT03_G2_EsperanzaVida.out':
+(rerunfilecheck)             Before: 765EEAD4B8D26F984303487430E1231E;2215
+(rerunfilecheck)             After:  5EAB6E02306E197C9C3CD78F80111307;2350.
  ) 
 Here is how much of TeX's memory you used:
- 28007 strings out of 476025
- 522512 string characters out of 5779036
+ 28050 strings out of 476025
+ 523027 string characters out of 5779036
  1861388 words of memory out of 5000000
- 47964 multiletter control sequences out of 15000+600000
+ 47973 multiletter control sequences out of 15000+600000
  542011 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 109i,11n,131p,2355b,911s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,12n,131p,2355b,911s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{subsection.3.5} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.3.4.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.3.4.1} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.4} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.1} has been referenced but does not exist, replaced by a fixed one
+
 </opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on PF_DS_PT03_G2_EsperanzaVida.pdf (11 pages, 512135 bytes).
+Output written on PF_DS_PT03_G2_EsperanzaVida.pdf (15 pages, 526993 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 

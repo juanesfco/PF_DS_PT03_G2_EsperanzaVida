@@ -6,7 +6,12 @@
 \contentsline {section}{\numberline {2}Obtención de los datos}{7}{section.2}%
 \contentsline {subsection}{\numberline {2.1}World Bank API}{7}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Tópicos Posibles}{8}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Desarrollo del Proyecto}{10}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Roles del Equipo}{10}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Diagrama de Gaant}{10}{subsection.3.2}%
-\contentsline {section}{Conclusiones y Lecciones Aprendidas}{11}{figure.caption.7}%
+\contentsline {section}{\numberline {3}Stack Tecnológico}{10}{section.3}%
+\contentsline {section}{\numberline {4}Desarrollo del Proyecto}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Roles del Equipo}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Diagrama de Gaant}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Demo 2}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Google Cloud Platform}{13}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Justificación}{13}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Implementación}{14}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}Propuesta Machine Learning}{14}{subsection.4.5}%

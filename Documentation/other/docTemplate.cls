@@ -247,7 +247,7 @@
 \newcommand{\po@docTemplate}{Owner}
 \newcommand{\henrymentor@docTemplate}{Course Student:}
 \newcommand{\course@docTemplate}{HENRY Data Science Part Time 3}
-\newcommand{\revision@docTemplate}{Revision 1.0}
+\newcommand{\revision@docTemplate}{Revision 2.0}
 
 \newcommand{\formatemail}[1]{$<$\texttt{#1}$>$}
 

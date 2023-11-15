@@ -22,11 +22,11 @@
 \stopTable
 
 %-----Table of Contents-----%
-\tabladecontenido
+\tableofcontents
 \newpage
-\listadetablas
+\listoftables
 \newpage
-\listadefiguras
+\listoffigures
 \newpage
 \printglossary[title=Lista de Acronimos ,type=\acronymtype]
 \clearpage
@@ -48,7 +48,7 @@
 \section{Planteamiento del problema}
 Consultamos bases de datos del Banco Mundial y decidimos utilizar como referencia temas clave que proporcionan indicadores que influyen en la esperanza de vida de los habitantes de un país. Estos temas seleccionados son la educación, la salud, la economía, el desarrollo de la ciencia y la tecnología y el ámbito social.
 Planeamos recopilar indicadores de cada tema, crear las bases de datos con las que queremos trabajar y luego vincular estas variables para establecer relaciones. Visualizamos este proyecto como un producto que se puede ofrecer a una empresa que busque invertir en ciencia y desarrollo.
-Una vez completado todo el trabajo de análisis de datos, crearemos modelos de aprendizaje automático especificando ciertos parámetros, como el porcentaje del \gls{pib} invertido en educación o ciencia. Estos modelos luego nos proporcionarán una esperanza de vida estimada para un país en particular.
+Una vez completado todo el trabajo de análisis de datos, crearemos modelos de aprendizaje automático especificando ciertos parámetros, como el porcentaje del PIB invertido en educación o ciencia. Estos modelos luego nos proporcionarán una esperanza de vida estimada para un país en particular.
 
 %%%%%%  PLANTEAMIAENTO DEL PROBLEMA - Objetivos  %%%%%% 
 \subsection{Objetivos}
@@ -89,6 +89,8 @@ La información de la API de World Bank tiene los siguientes tópicos:
   \caption{Tópicos World Bank}
   \label{fig:topics}
 \end{figure}
+
+\newpage
 
 Y las siguientes economías:
 
@@ -147,7 +149,7 @@ Contando valores faltantes:
 
 %%%%%%   Conclusiones  %%%%%%  
 \clearpage
-\section*{Cconclusiones y Lecciones Aprendidas}
+\section*{Conclusiones y Lecciones Aprendidas}
 \addcontentsline{toc}{section}{Conclusiones y Lecciones Aprendidas}%adds Conclusions and Lessons Learned section to the table of contents
 
 bla

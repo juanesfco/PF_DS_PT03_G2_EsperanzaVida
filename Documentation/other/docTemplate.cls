@@ -287,7 +287,7 @@
     {\large
       \vfil
       \today\\
-        \ifthenelse{\boolean{svn}}{SVN Revision \svnrev}{}  
+        \ifthenelse{\boolean{svn}}{SVN Revisión \svnrev}{}  
       \vfil
     }
   }
@@ -336,10 +336,10 @@
 \newcommand{\startTable}{\begin{table}[H]
 \centering
   %\captionsetup{singlelinecheck=off}	
-  \caption{Document Revision History}
+  \caption{Historia de Revisión del Documento}
   \begin{tabular}{|p{2cm}|p{2cm}|p{10cm}|}
   	\hline
-    \textbf{Revision} & \textbf{Date} & \textbf{Reason for Revision Change(s)} \\
+    \textbf{Revisión} & \textbf{Fecha} & \textbf{Razón para los Cambios} \\
     \hline}
     
 \newcommand{\AddRevision}[3]{#1&#2  &#3\\\hline}
@@ -362,6 +362,7 @@
 \setacronymstyle{long-sc-short}
 \usepackage{multicol}
 \usepackage{multirow}
+\usepackage[spanish]{babel}
 \usepackage{hyperref} % must be last package loaded!
 % it makes hyper-references (citations, URLs, etc) clickable
 

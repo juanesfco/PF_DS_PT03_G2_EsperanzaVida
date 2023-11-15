@@ -44,88 +44,89 @@
 %\newpage
 
 %-----Content-----%
-%%%%%%  PROBLEM STATEMENT  %%%%%%                                               
-\section{Problem Statement}
-We consulted World Bank databases and decided to use as reference key topics that provide indicators influencing the life expectancy of a country's inhabitants. These selected topics are education, health, economy, and the development of science and technology.
-We plan to gather indicators from each topic, create the databases we want to work with, and then link these variables to establish relationships. We envision this project as a product that can be offered to a company looking to invest in science and development.
-After all the data analysis work is completed, we will create Machine Learning models by specifying certain parameters, such as the percentage of \gls{gdp} invested in education or science. These models will then provide us with an estimated life expectancy for a particular country.
+%%%%%%   PLANTEAMIENTO DEL PROBLEMA  %%%%%%                                               
+\section{Planteamiento del problema}
+Consultamos bases de datos del Banco Mundial y decidimos utilizar como referencia temas clave que proporcionan indicadores que influyen en la esperanza de vida de los habitantes de un país. Estos temas seleccionados son la educación, la salud, la economía, el desarrollo de la ciencia y la tecnología y el ámbito social.
+Planeamos recopilar indicadores de cada tema, crear las bases de datos con las que queremos trabajar y luego vincular estas variables para establecer relaciones. Visualizamos este proyecto como un producto que se puede ofrecer a una empresa que busque invertir en ciencia y desarrollo.
+Una vez completado todo el trabajo de análisis de datos, crearemos modelos de aprendizaje automático especificando ciertos parámetros, como el porcentaje del \gls{pib} invertido en educación o ciencia. Estos modelos luego nos proporcionarán una esperanza de vida estimada para un país en particular.
 
-%%%%%%  PROBLEM STATEMENT - Objectives  %%%%%% 
-\subsection{Objectives}
-To analyze life expectancy in the countries of the Americas based on five factors: 
+%%%%%%  PLANTEAMIAENTO DEL PROBLEMA - Objetivos  %%%%%% 
+\subsection{Objetivos}
+Analizar la expectativa de vida en 30 paises en base a 5 factores:
 \begin{itemize}
-  \item Education
-  \item Health
-  \item Economy
-  \item Science and Technology
-  \item Security
+  \item Educación
+  \item Salud
+  \item Economía
+  \item Ciencia y Tecnología
+  \item Social
 \end{itemize}
 
-%%%%%%  PROBLEM STATEMENT - Possible Clientele  %%%%%% 
-\subsection{Possible Clientele}
-The potential clientele for this project includes both public and private entities with a vested interest in the subject matter. Public institutions, such as government agencies, can utilize the insights and models generated to inform policy decisions and allocate resources effectively in areas related to education, healthcare, and scientific research. On the other hand, private companies, especially those involved in industries related to science and technology, can benefit from the project's findings when making investment decisions and corporate social responsibility initiatives. This project caters to a broad range of organizations looking to make informed decisions that impact the well-being and development of countries.
+%%%%%%  PLANTEAMIENTO DEL PROBLEMA - Público objetivo  %%%%%% 
+\subsection{Público objetivo}
+El público obejtivo de este proyecto incluye entidades públicas y privadas con intereses creados en el tema y usuarios cotidianos que quieran conocer la esperanza de vida esperada en un país determinado. 
+ Las instituciones públicas, como las agencias gubernamentales, pueden utilizar los conocimientos y modelos generados para informar decisiones políticas y asignar recursos de manera efectiva en áreas relacionadas con la educación, la atención médica y la investigación científica. Por otro lado, las empresas privadas, especialmente aquellas involucradas en industrias relacionadas con la ciencia y la tecnología, pueden beneficiarse de los hallazgos del proyecto al tomar decisiones de inversión e iniciativas de responsabilidad social corporativa. Este proyecto está dirigido a una amplia gama de organizaciones que buscan tomar decisiones informadas que impacten el bienestar y el desarrollo de los países.
 
-%%%%%%   PROBLEM STATEMENT - Scope of the Project %%%%%%  
-\subsection{Scope of the Project}
-The project scope involves a comprehensive analysis of life expectancy in 30 countries across the World over the past 35 years. This analysis will encompass five key topics within each of the five influencing factors, namely education, health, economy, and science and technology. The goal is to provide a detailed and data-driven insight into the factors that impact life expectancy in these countries over the specified timeframe.
+%%%%%%   PLANTEAMIENTO DEL PROBLEMA - Alcance del proyecto %%%%%%  
+\subsection{Alcance del proyecto}
+El alcance del proyecto implica un análisis exhaustivo de la esperanza de vida en 30 países de todo el mundo durante los últimos 35 años. Este análisis abarcará cinco temas clave dentro de cada uno de los cinco factores influyentes, a saber, educación, salud, economía, ciencia y tecnología y ámbito social. El objetivo es proporcionar una visión detallada y basada en datos de los factores que afectan la esperanza de vida en estos países durante el período de tiempo especificado.
+ El producto final incluirá un servicio web donde se pueda acceder a la información brindada por el análisis y un dashboard interactivo con insights claves para la interpretación de los datos. 
 
 
-
-%%%%%%  Data Acquisition %%%%%%  
+%%%%%%  Obtención de los datos %%%%%%  
 \clearpage
-\section{Data Acquisition}
-The data was acquired using the \href{https://datahelpdesk.worldbank.org/knowledgebase/topics/125589}{World Bank API}.
+\section{Obtención de los datos}
+La información fue obtenida utilizando la siguiente API \href{https://datahelpdesk.worldbank.org/knowledgebase/topics/125589}{World Bank API}.
 
 %%%%%%   API %%%%%%  
 
 \subsection{World Bank API}
 
-The World Bank Data has the following topics:
+La información de la API de World Bank tiene los siguientes tópicos:
 
 \begin{figure}[htbp!]
   \centering
   \includegraphics[width=0.4\textwidth]{topics.png}
-  \caption{World Bank Data Topics}
+  \caption{Tópicos World Bank}
   \label{fig:topics}
 \end{figure}
 
-And the following economies:
+Y las siguientes economías:
 
 \begin{figure}[htbp!]
   \centering
   \includegraphics[width=0.9\textwidth]{economies.png}
-  \caption{World Bank Data Economies}
+  \caption{Economías World Bank}
   \label{fig:economies}
 \end{figure}
 
-Each topic has a few factors:
+Cada tópico tiene factores asociados:
 
 \begin{figure}[htbp!]
   \centering
   \includegraphics[width=0.7\textwidth]{st_factors.png}
-  \caption{World Bank Data Science \& Technology Factors}
+  \caption{Factores Ciencia y Tecnología World Bank}
   \label{fig:stfactors}
 \end{figure}
 
-%%%%%%   Possible Topics %%%%%% 
+%%%%%%   Tópicos Posibles %%%%%% 
 
-\subsection{Possible Topics}
+\subsection{Tópicos Posibles}
 
-Counting missing values:
+Contando valores faltantes:
 
 \begin{figure}[htbp!]
   \centering
   \includegraphics[width=0.7\textwidth]{Nan.png}
-  \caption{Nan Analysis}
+  \caption{Análisis de valores Nan}
   \label{fig:nan}
 \end{figure}
 
 \clearpage
-\section{Project Development} 
-\subsection{Team Roles}
+\section{Desarrollo del Proyecto} 
+\subsection{Roles del Equipo}
 \begin{table}[H]
   \centering	
-  \caption{Team Roles}
+  \caption{Roles del Equipo}
   \begin{tabular}{|p{5cm}|p{10cm}|}
     \hline
     \textbf{Role} & \textbf{Name} \\\hline
@@ -137,17 +138,17 @@ Counting missing values:
   \end{tabular}
   \label{tab:teamroles}
 \end{table}
-\subsection{Gaant Chart}
+\subsection{Diagrama de Gaant}
 \begin{figure}[htbp!]
   \includegraphics[width=\textwidth]{gaant.png}
-  \caption{Project Gaant Chart}
+  \caption{Diagrama de Gantt}
   \label{fig:gaant}
 \end{figure}
 
-%%%%%%   Conclusions  %%%%%%  
+%%%%%%   Conclusiones  %%%%%%  
 \clearpage
-\section*{Conclusions and Lessons Learned}
-\addcontentsline{toc}{section}{Conclusions and Lessons Learned}%adds Conclusions and Lessons Learned section to the table of contents
+\section*{Cconclusiones y Lecciones Aprendidas}
+\addcontentsline{toc}{section}{Conclusiones y Lecciones Aprendidas}%adds Conclusions and Lessons Learned section to the table of contents
 
 bla
 

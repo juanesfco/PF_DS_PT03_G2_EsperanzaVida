@@ -58,6 +58,7 @@ Have worked on:
 
 [Presentation Sprint 2](https://docs.google.com/presentation/d/1F_wdeTkU0gY0QMIVMa2L5YlaUPRAYAv0Ixwla1Bgliw/edit?usp=sharing)
 
+
 [Video Carga Incremental](https://drive.google.com/file/d/1JNPeSrHK4xp8YUxo0ensJmAqQNl7OTgf/view?usp=sharing)
 
 

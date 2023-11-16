@@ -57,6 +57,7 @@ Have worked on:
 - Use of Big Data tools such as HDFS, Hive, Spark, and/or No-SQL databases, and/or cloud services.
 
 [Presentation Sprint 2](https://docs.google.com/presentation/d/1F_wdeTkU0gY0QMIVMa2L5YlaUPRAYAv0Ixwla1Bgliw/edit?usp=sharing)
+
 [Video Carga Incremental](https://drive.google.com/file/d/1JNPeSrHK4xp8YUxo0ensJmAqQNl7OTgf/view?usp=sharing)
 
 

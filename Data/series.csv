@@ -1,0 +1,681 @@
+series_id,series,topic_id
+NY.ADJ.NNTY.KD.ZG,Adjusted net national income (annual % growth),3
+NY.ADJ.NNTY.PC.CD,Adjusted net national income per capita (current US$),3
+NY.ADJ.SVNX.GN.ZS,"Adjusted net savings, excluding particulate emission damage (% of GNI)",3
+NY.ADJ.SVNG.CD,"Adjusted net savings, including particulate emission damage (current US$)",3
+NY.ADJ.DKAP.GN.ZS,Adjusted savings: consumption of fixed capital (% of GNI),3
+NY.ADJ.AEDU.CD,Adjusted savings: education expenditure (current US$),3
+NY.ADJ.ICTR.GN.ZS,Adjusted savings: gross savings (% of GNI),3
+NY.ADJ.DMIN.CD,Adjusted savings: mineral depletion (current US$),3
+NY.ADJ.NNAT.CD,Adjusted savings: net national savings (current US$),3
+NY.ADJ.DPEM.GN.ZS,Adjusted savings: particulate emission damage (% of GNI),3
+NE.GDI.STKB.CD,Changes in inventories (current US$),3
+BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",3
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),3
+NE.CON.TOTL.CD,Final consumption expenditure (current US$),3
+NV.FSM.TOTL.CN,Financial intermediary services indirectly Measured (FISIM) (current LCU),3
+BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",3
+NY.GDP.MKTP.KN,GDP (constant LCU),3
+NY.GDP.PCAP.KN,GDP per capita (constant LCU),3
+NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),3
+NY.GDP.MKTP.CN.AD,GDP: linked series (current LCU),3
+NE.CON.GOVT.KN,General government final consumption expenditure (constant LCU),3
+NY.GNP.PCAP.KD,GNI per capita (constant 2015 US$),3
+NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",3
+NY.GNP.ATLS.CD,"GNI, Atlas method (current US$)",3
+NY.GNP.MKTP.PP.KD,"GNI, PPP (constant 2017 international $)",3
+NY.GNP.MKTP.PP.CD,"GNI, PPP (current international $)",3
+BX.GRT.EXTA.CD.WD,"Grants, excluding technical cooperation (BoP, current US$)",3
+NY.GDS.TOTL.CD,Gross domestic savings (current US$),3
+NE.GDI.FTOT.KD.ZG,Gross fixed capital formation (annual % growth),3
+NE.GDI.FTOT.KD,Gross fixed capital formation (constant 2015 US$),3
+NE.GDI.FTOT.KN,Gross fixed capital formation (constant LCU),3
+NE.GDI.FPRV.CN,"Gross fixed capital formation, private sector (current LCU)",3
+NE.DAB.TOTL.ZS,Gross national expenditure (% of GDP),3
+NE.DAB.TOTL.CN,Gross national expenditure (current LCU),3
+NE.DAB.DEFL.ZS,Gross national expenditure deflator (base year varies by country),3
+NY.GNS.ICTR.CN,Gross savings (current LCU),3
+NY.GNS.ICTR.CD,Gross savings (current US$),3
+NY.GDP.FCST.KD,Gross value added at basic prices (GVA) (constant 2015 US$),3
+NY.GDP.FCST.KN,Gross value added at basic prices (GVA) (constant LCU),3
+NE.IMP.GNFS.KD.ZG,Imports of goods and services (annual % growth),3
+NE.IMP.GNFS.KD,Imports of goods and services (constant 2015 US$),3
+NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",3
+BX.GSR.INSF.ZS,"Insurance and financial services (% of service exports, BoP)",3
+NV.IND.MANF.KN,"Manufacturing, value added (constant LCU)",3
+NV.IND.MANF.CN,"Manufacturing, value added (current LCU)",3
+DT.ODA.ODAT.CD,Net official development assistance received (current US$),3
+BN.GSR.FCTY.CD,"Net primary income (BoP, current US$)",3
+NY.GSR.NFCY.CD,Net primary income (Net income from abroad) (current US$),3
+NY.TRF.NCTR.KN,Net secondary income (Net current transfers from abroad) (constant LCU),3
+BN.GSR.MRCH.CD,"Net trade in goods (BoP, current US$)",3
+BM.TRF.PWKR.CD.DT,"Personal remittances, paid (current US$)",3
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",3
+BX.PEF.TOTL.CD.WD,"Portfolio equity, net inflows (BoP, current US$)",3
+PA.NUS.PRVT.PP,"PPP conversion factor, private consumption (LCU per international $)",3
+PA.NUS.PPPC.RF,Price level ratio of PPP conversion factor (GDP) to market exchange rate,3
+BM.GSR.FCTY.CD,"Primary income payments (BoP, current US$)",3
+BN.RES.INCL.CD,"Reserves and related items (BoP, current US$)",3
+BM.TRF.PRVT.CD,"Secondary income, other sectors, payments (BoP, current US$)",3
+BX.GSR.NFSV.CD,"Service exports (BoP, current US$)",3
+NV.SRV.TOTL.KD,"Services, value added (constant 2015 US$)",3
+NV.SRV.TOTL.CN,"Services, value added (current LCU)",3
+DT.TDS.DECT.GN.ZS,Total debt service (% of GNI),3
+BG.GSR.NFSV.GD.ZS,Trade in services (% of GDP),3
+BM.GSR.TRAN.ZS,"Transport services (% of service imports, BoP)",3
+NY.ADJ.DNGY.GN.ZS,Adjusted savings: energy depletion (% of GNI),3
+NY.ADJ.DMIN.GN.ZS,Adjusted savings: mineral depletion (% of GNI),3
+NY.ADJ.DFOR.CD,Adjusted savings: net forest depletion (current US$),3
+NV.AGR.TOTL.KN,"Agriculture, forestry, and fishing, value added (constant LCU)",3
+NV.AGR.EMPL.KD,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",3
+GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",3
+NE.GDI.STKB.KN,Changes in inventories (constant LCU),3
+NE.GDI.STKB.CN,Changes in inventories (current LCU),3
+BX.GSR.ROYL.CD,"Charges for the use of intellectual property, receipts (BoP, current US$)",3
+NY.GDP.DISC.KN,Discrepancy in expenditure estimate of GDP (constant LCU),3
+GC.XPN.TOTL.GD.ZS,Expense (% of GDP),3
+NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),3
+NE.EXP.GNFS.KD.ZG,Exports of goods and services (annual % growth),3
+BX.GSR.GNFS.CD,"Exports of goods and services (BoP, current US$)",3
+NE.EXP.GNFS.KD,Exports of goods and services (constant 2015 US$),3
+BX.GSR.TOTL.CD,"Exports of goods, services and primary income (BoP, current US$)",3
+NE.RSB.GNFS.KN,External balance on goods and services (constant LCU),3
+DT.DOD.DECT.CD,"External debt stocks, total (DOD, current US$)",3
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",3
+NY.GDP.MKTP.CD,GDP (current US$),3
+NY.GDP.DEFL.ZS,GDP deflator (base year varies by country),3
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3
+NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),3
+NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",3
+NE.CON.GOVT.ZS,General government final consumption expenditure (% of GDP),3
+NE.CON.GOVT.CN,General government final consumption expenditure (current LCU),3
+NY.GNP.MKTP.CN,GNI (current LCU),3
+NY.GNP.MKTP.KD.ZG,GNI growth (annual %),3
+NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",3
+NE.GDI.TOTL.KN,Gross capital formation (constant LCU),3
+NY.GDS.TOTL.ZS,Gross domestic savings (% of GDP),3
+NY.GDS.TOTL.CN,Gross domestic savings (current LCU),3
+NE.DAB.TOTL.KD,Gross national expenditure (constant 2015 US$),3
+NY.GNS.ICTR.ZS,Gross savings (% of GDP),3
+NY.GDP.FCST.CN,Gross value added at basic prices (GVA) (current LCU),3
+NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure (constant 2015 US$),3
+NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure (current LCU),3
+NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)",3
+NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series (current LCU),3
+BM.GSR.GNFS.CD,"Imports of goods and services (BoP, current US$)",3
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),3
+BM.GSR.TOTL.CD,"Imports of goods, services and primary income (BoP, current US$)",3
+NV.IND.TOTL.KD,"Industry (including construction), value added (constant 2015 US$)",3
+NV.IND.EMPL.KD,"Industry (including construction), value added per worker (constant 2015 US$)",3
+NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",3
+BN.FIN.TOTL.CD,"Net financial account (BoP, current US$)",3
+DT.ODA.ODAT.GN.ZS,Net ODA received (% of GNI),3
+NY.TRF.NCTR.CD,Net secondary income (Net current transfers from abroad) (current US$),3
+BN.GSR.GNFS.CD,"Net trade in goods and services (BoP, current US$)",3
+NV.MNF.OTHR.ZS.UN,Other manufacturing (% of value added in manufacturing),3
+PA.NUS.PPP,"PPP conversion factor, GDP (LCU per international $)",3
+DT.DOD.PVLX.EX.ZS,"Present value of external debt (% of exports of goods, services and primary income)",3
+DT.DOD.PVLX.GN.ZS,Present value of external debt (% of GNI),3
+BX.TRF.CURR.CD,"Secondary income receipts (BoP, current US$)",3
+NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",3
+NV.SRV.TOTL.KD.ZG,"Services, value added (annual % growth)",3
+NV.SRV.TOTL.KN,"Services, value added (constant LCU)",3
+NV.SRV.TOTL.CD,"Services, value added (current US$)",3
+DT.DOD.DSTC.IR.ZS,Short-term debt (% of total reserves),3
+NY.TAX.NIND.KN,Taxes less subsidies on products (constant LCU),3
+DT.TDS.DECT.EX.ZS,"Total debt service (% of exports of goods, services and primary income)",3
+NE.TRD.GNFS.ZS,Trade (% of GDP),3
+BX.GSR.TRAN.ZS,"Transport services (% of service exports, BoP)",3
+BX.GSR.TRVL.ZS,"Travel services (% of service exports, BoP)",3
+NY.ADJ.NNTY.PC.KD,Adjusted net national income per capita (constant 2015 US$),3
+NY.ADJ.SVNX.CD,"Adjusted net savings, excluding particulate emission damage (current US$)",3
+NY.ADJ.DCO2.GN.ZS,Adjusted savings: carbon dioxide damage (% of GNI),3
+NY.ADJ.DRES.GN.ZS,Adjusted savings: natural resources depletion (% of GNI),3
+NY.ADJ.NNAT.GN.ZS,Adjusted savings: net national savings (% of GNI),3
+NY.ADJ.DPEM.CD,Adjusted savings: particulate emission damage (current US$),3
+NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",3
+NV.AGR.TOTL.CN,"Agriculture, forestry, and fishing, value added (current LCU)",3
+NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",3
+BM.GSR.ROYL.CD,"Charges for the use of intellectual property, payments (BoP, current US$)",3
+NV.MNF.CHEM.ZS.UN,Chemicals (% of value added in manufacturing),3
+BX.GSR.CMCP.ZS,"Communications, computer, etc. (% of service exports, BoP)",3
+BM.GSR.CMCP.ZS,"Communications, computer, etc. (% of service imports, BoP)",3
+BN.CAB.XOKA.GD.ZS,Current account balance (% of GDP),3
+PA.NUS.ATLS,DEC alternative conversion factor (LCU per US$),3
+NY.GDP.DISC.CN,Discrepancy in expenditure estimate of GDP (current LCU),3
+NY.EXP.CAPM.KN,Exports as a capacity to import (constant LCU),3
+NE.EXP.GNFS.KN,Exports of goods and services (constant LCU),3
+NE.RSB.GNFS.ZS,External balance on goods and services (% of GDP),3
+NE.RSB.GNFS.CN,External balance on goods and services (current LCU),3
+NE.CON.TOTL.ZS,Final consumption expenditure (% of GDP),3
+BN.KLT.DINV.CD,"Foreign direct investment, net (BoP, current US$)",3
+NY.GDP.MKTP.KD,GDP (constant 2015 US$),3
+NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2017 international $)",3
+NY.GDP.MKTP.PP.KD,"GDP, PPP (constant 2017 international $)",3
+NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",3
+NE.CON.GOVT.KD.ZG,General government final consumption expenditure (annual % growth),3
+NY.GNP.MKTP.KD,GNI (constant 2015 US$),3
+NY.GNP.MKTP.KN,GNI (constant LCU),3
+NY.GNP.PCAP.KN,GNI per capita (constant LCU),3
+NY.GNP.PCAP.CN,GNI per capita (current LCU),3
+BX.GSR.MRCH.CD,"Goods exports (BoP, current US$)",3
+BM.GSR.MRCH.CD,"Goods imports (BoP, current US$)",3
+NE.GDI.TOTL.KD,Gross capital formation (constant 2015 US$),3
+NE.GDI.TOTL.CN,Gross capital formation (current LCU),3
+NE.GDI.TOTL.CD,Gross capital formation (current US$),3
+NY.GDY.TOTL.KN,Gross domestic income (constant LCU),3
+NE.GDI.FTOT.CN,Gross fixed capital formation (current LCU),3
+NE.GDI.FTOT.CD,Gross fixed capital formation (current US$),3
+NY.GNS.ICTR.GN.ZS,Gross savings (% of GNI),3
+NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure (% of GDP),3
+NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure (annual % growth),3
+NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure (current US$),3
+NE.IMP.GNFS.KN,Imports of goods and services (constant LCU),3
+NE.IMP.GNFS.CN,Imports of goods and services (current LCU),3
+NV.IND.TOTL.CN,"Industry (including construction), value added (current LCU)",3
+NV.IND.TOTL.CD,"Industry (including construction), value added (current US$)",3
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",3
+NV.MNF.MTRN.ZS.UN,Machinery and transport equipment (% of value added in manufacturing),3
+NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",3
+NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",3
+NV.IND.MANF.CD,"Manufacturing, value added (current US$)",3
+BN.TRF.KOGT.CD,"Net capital account (BoP, current US$)",3
+BN.KAC.EOMS.CD,"Net errors and omissions (BoP, current US$)",3
+NY.GSR.NFCY.KN,Net primary income (Net income from abroad) (constant LCU),3
+NY.GSR.NFCY.CN,Net primary income (Net income from abroad) (current LCU),3
+BN.KLT.PTXL.CD,"Portfolio investment, net (BoP, current US$)",3
+DT.DOD.PVLX.CD,Present value of external debt (current US$),3
+BX.GSR.FCTY.CD,"Primary income receipts (BoP, current US$)",3
+GC.REV.XGRT.GD.ZS,"Revenue, excluding grants (% of GDP)",3
+BM.GSR.NFSV.CD,"Service imports (BoP, current US$)",3
+NV.SRV.EMPL.KD,"Services, value added per worker (constant 2015 US$)",3
+NY.TAX.NIND.CD,Taxes less subsidies on products (current US$),3
+NY.TTF.GNFS.KN,Terms of trade adjustment (constant LCU),3
+BM.GSR.TRVL.ZS,"Travel services (% of service imports, BoP)",3
+NY.ADJ.NNTY.KD,Adjusted net national income (constant 2015 US$),3
+NY.ADJ.NNTY.CD,Adjusted net national income (current US$),3
+NY.ADJ.NNTY.PC.KD.ZG,Adjusted net national income per capita (annual % growth),3
+NY.ADJ.SVNG.GN.ZS,"Adjusted net savings, including particulate emission damage (% of GNI)",3
+NY.ADJ.DCO2.CD,Adjusted savings: carbon dioxide damage (current US$),3
+NY.ADJ.DKAP.CD,Adjusted savings: consumption of fixed capital (current US$),3
+NY.ADJ.AEDU.GN.ZS,Adjusted savings: education expenditure (% of GNI),3
+NY.ADJ.DNGY.CD,Adjusted savings: energy depletion (current US$),3
+NY.ADJ.DFOR.GN.ZS,Adjusted savings: net forest depletion (% of GNI),3
+NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",3
+NV.AGR.TOTL.KD,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",3
+NE.EXP.GNFS.CN,Exports of goods and services (current LCU),3
+NE.RSB.GNFS.CD,External balance on goods and services (current US$),3
+DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),3
+NE.CON.TOTL.KD.ZG,Final consumption expenditure (annual % growth),3
+NE.CON.TOTL.KD,Final consumption expenditure (constant 2015 US$),3
+NE.CON.TOTL.KN,Final consumption expenditure (constant LCU),3
+NE.CON.TOTL.CN,Final consumption expenditure (current LCU),3
+NV.FSM.TOTL.KN,Financial intermediary services indirectly Measured (FISIM) (constant LCU),3
+NV.MNF.FBTO.ZS.UN,"Food, beverages and tobacco (% of value added in manufacturing)",3
+BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows (% of GDP)",3
+BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows (BoP, current US$)",3
+NY.GDP.MKTP.CN,GDP (current LCU),3
+NY.GDP.PCAP.CN,GDP per capita (current LCU),3
+NY.GDP.PCAP.CD,GDP per capita (current US$),3
+NE.CON.GOVT.KD,General government final consumption expenditure (constant 2015 US$),3
+NE.CON.GOVT.CD,General government final consumption expenditure (current US$),3
+NY.GNP.MKTP.CD,GNI (current US$),3
+NY.GNP.PCAP.KD.ZG,GNI per capita growth (annual %),3
+NY.GNP.PCAP.PP.KD,"GNI per capita, PPP (constant 2017 international $)",3
+NY.GNP.MKTP.CN.AD,GNI: linked series (current LCU),3
+NE.GDI.TOTL.ZS,Gross capital formation (% of GDP),3
+NE.GDI.TOTL.KD.ZG,Gross capital formation (annual % growth),3
+NE.GDI.FTOT.ZS,Gross fixed capital formation (% of GDP),3
+NE.GDI.FPRV.ZS,"Gross fixed capital formation, private sector (% of GDP)",3
+NE.DAB.TOTL.KN,Gross national expenditure (constant LCU),3
+NE.DAB.TOTL.CD,Gross national expenditure (current US$),3
+NY.GDP.FCST.CD,Gross value added at basic prices (GVA) (current US$),3
+NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure (constant LCU),3
+NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),3
+NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth (annual %),3
+NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP (current international $)",3
+BX.GSR.CCIS.ZS,"ICT service exports (% of service exports, BoP)",3
+BX.GSR.CCIS.CD,"ICT service exports (BoP, current US$)",3
+NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),3
+NV.IND.TOTL.KD.ZG,"Industry (including construction), value added (annual % growth)",3
+NV.IND.TOTL.KN,"Industry (including construction), value added (constant LCU)",3
+BM.GSR.INSF.ZS,"Insurance and financial services (% of service imports, BoP)",3
+NV.IND.MANF.KD,"Manufacturing, value added (constant 2015 US$)",3
+NV.MNF.TECH.ZS.UN,Medium and high-tech manufacturing value added (% manufacturing value added),3
+DT.ODA.ODAT.PC.ZS,Net ODA received per capita (current US$),3
+BN.TRF.CURR.CD,"Net secondary income (BoP, current US$)",3
+NY.TRF.NCTR.CN,Net secondary income (Net current transfers from abroad) (current LCU),3
+BX.TRF.PWKR.DT.GD.ZS,"Personal remittances, received (% of GDP)",3
+BX.TRF.PWKR.CD,"Personal transfers, receipts (BoP, current US$)",3
+DT.DOD.DSTC.XP.ZS,"Short-term debt (% of exports of goods, services and primary income)",3
+NY.TAX.NIND.CN,Taxes less subsidies on products (current LCU),3
+BX.GRT.TECH.CD.WD,"Technical cooperation grants (BoP, current US$)",3
+NV.MNF.TXTL.ZS.UN,Textiles and clothing (% of value added in manufacturing),3
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",3
+FI.RES.XGLD.CD,Total reserves minus gold (current US$),3
+SE.PRM.TENR,"Adjusted net enrollment rate, primary (% of primary school age children)",4
+SE.PRM.TENR.MA,"Adjusted net enrollment rate, primary, male (% of primary school age children)",4
+SE.SEC.UNER.LO.ZS,Adolescents out of school (% of lower secondary school age),4
+SE.SEC.UNER.LO.FE.ZS,"Adolescents out of school, female (% of female lower secondary school age)",4
+SE.PRM.UNER.FE.ZS,"Children out of school, female (% of female primary school age)",4
+SE.PRM.UNER.MA.ZS,"Children out of school, male (% of male primary school age)",4
+SE.PRM.UNER.FE,"Children out of school, primary, female",4
+SE.PRM.UNER.MA,"Children out of school, primary, male",4
+SE.XPD.CPRM.ZS,"Current education expenditure, primary (% of total expenditure in primary public institutions)",4
+SE.XPD.CSEC.ZS,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",4
+SE.XPD.CTER.ZS,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",4
+SE.TER.CUAT.BA.MA.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",4
+SE.SEC.CUAT.LO.FE.ZS,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",4
+SE.SEC.CUAT.LO.ZS,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",4
+SE.SEC.CUAT.PO.MA.ZS,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",4
+SE.SEC.CUAT.PO.ZS,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",4
+SE.PRM.CUAT.FE.ZS,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",4
+SE.PRM.CUAT.MA.ZS,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",4
+SE.PRM.CUAT.ZS,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",4
+SE.TER.CUAT.ST.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",4
+SE.SEC.CUAT.UP.FE.ZS,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",4
+SE.SEC.CUAT.UP.MA.ZS,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",4
+SE.SEC.CUAT.UP.ZS,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",4
+SE.TER.CUAT.MS.FE.ZS,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",4
+SE.TER.CUAT.MS.ZS,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",4
+SE.TER.CUAT.DO.FE.ZS,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",4
+SE.XPD.PRIM.ZS,Expenditure on primary education (% of government expenditure on education),4
+SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total (% of GDP)",4
+SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total (% of government expenditure)",4
+SL.TLF.TOTL.IN,"Labor force, total",4
+SE.ADT.LITR.MA.ZS,"Literacy rate, adult male (% of males ages 15 and above)",4
+SE.ADT.1524.LT.FM.ZS,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",4
+SE.ADT.1524.LT.FE.ZS,"Literacy rate, youth female (% of females ages 15-24)",4
+SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)",4
+SE.SEC.CMPT.LO.FE.ZS,"Lower secondary completion rate, female (% of relevant age group)",4
+SE.PRM.NINT.FE.ZS,"Net intake rate in grade 1, female (% of official school-age population)",4
+SH.DTH.1014,Number of deaths ages 10-14 years,4
+SE.PRM.OENR.ZS,"Over-age students, primary (% of enrollment)",4
+SE.PRM.OENR.MA.ZS,"Over-age students, primary, male (% of male enrollment)",4
+SE.PRM.PRS5.MA.ZS,"Persistence to grade 5, male (% of cohort)",4
+SE.PRM.PRS5.ZS,"Persistence to grade 5, total (% of cohort)",4
+SE.PRM.PRSL.FE.ZS,"Persistence to last grade of primary, female (% of cohort)",4
+SE.PRM.PRSL.ZS,"Persistence to last grade of primary, total (% of cohort)",4
+SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),4
+SE.PRE.DURS,"Preprimary education, duration (years)",4
+SE.PRM.CMPT.FE.ZS,"Primary completion rate, female (% of relevant age group)",4
+SE.PRM.DURS,"Primary education, duration (years)",4
+SE.PRM.ENRL.FE.ZS,"Primary education, pupils (% female)",4
+SH.DYN.1519,"Probability of dying among adolescents ages 15-19 years (per 1,000)",4
+SH.DYN.0509,"Probability of dying among children ages 5-9 years (per 1,000)",4
+SE.SEC.PROG.ZS,Progression to secondary school (%),4
+SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary",4
+SE.TER.ENRL.TC.ZS,"Pupil-teacher ratio, tertiary",4
+SE.PRM.REPT.FE.ZS,"Repeaters, primary, female (% of female enrollment)",4
+SE.PRM.REPT.ZS,"Repeaters, primary, total (% of total enrollment)",4
+SE.PRE.ENRR.FE,"School enrollment, preprimary, female (% gross)",4
+SE.PRM.ENRR,"School enrollment, primary (% gross)",4
+SE.ENR.PRIM.FM.ZS,"School enrollment, primary (gross), gender parity index (GPI)",4
+SE.ENR.PRSC.FM.ZS,"School enrollment, primary and secondary (gross), gender parity index (GPI)",4
+SE.PRM.ENRR.MA,"School enrollment, primary, male (% gross)",4
+SE.SEC.ENRR,"School enrollment, secondary (% gross)",4
+SE.SEC.NENR,"School enrollment, secondary (% net)",4
+SE.SEC.NENR.FE,"School enrollment, secondary, female (% net)",4
+SE.SEC.NENR.MA,"School enrollment, secondary, male (% net)",4
+SE.SEC.PRIV.ZS,"School enrollment, secondary, private (% of total secondary)",4
+SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)",4
+SE.SEC.DURS,"Secondary education, duration (years)",4
+SE.SEC.ENRL.GC,"Secondary education, general pupils",4
+SE.SEC.TCHR,"Secondary education, teachers",4
+SE.SEC.TCHR.FE,"Secondary education, teachers, female",4
+SE.SEC.ENRL.VO.FE.ZS,"Secondary education, vocational pupils (% female)",4
+SE.SEC.TCAQ.LO.FE.ZS,"Trained teachers in lower secondary education, female (% of female teachers)",4
+SE.PRE.TCAQ.ZS,Trained teachers in preprimary education (% of total teachers),4
+SE.PRE.TCAQ.FE.ZS,"Trained teachers in preprimary education, female (% of female teachers)",4
+SE.PRE.TCAQ.MA.ZS,"Trained teachers in preprimary education, male (% of male teachers)",4
+SE.PRM.TCAQ.FE.ZS,"Trained teachers in primary education, female (% of female teachers)",4
+SE.PRM.TCAQ.MA.ZS,"Trained teachers in primary education, male (% of male teachers)",4
+SE.SEC.TCAQ.ZS,Trained teachers in secondary education (% of total teachers),4
+SE.SEC.TCAQ.FE.ZS,"Trained teachers in secondary education, female (% of female teachers)",4
+SE.SEC.TCAQ.UP.ZS,Trained teachers in upper secondary education (% of total teachers),4
+SE.SEC.TCAQ.UP.FE.ZS,"Trained teachers in upper secondary education, female (% of female teachers)",4
+SE.PRM.TENR.FE,"Adjusted net enrollment rate, primary, female (% of primary school age children)",4
+SE.SEC.UNER.LO.MA.ZS,"Adolescents out of school, male (% of male lower secondary school age)",4
+SE.PRM.UNER.ZS,Children out of school (% of primary school age),4
+SE.PRM.UNER,"Children out of school, primary",4
+SE.COM.DURS,"Compulsory education, duration (years)",4
+SE.XPD.CTOT.ZS,"Current education expenditure, total (% of total expenditure in public institutions)",4
+SE.TER.CUAT.BA.FE.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",4
+SE.TER.CUAT.BA.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",4
+SE.SEC.CUAT.LO.MA.ZS,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",4
+SE.SEC.CUAT.PO.FE.ZS,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",4
+SE.TER.CUAT.ST.FE.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",4
+SE.TER.CUAT.ST.MA.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",4
+SE.TER.CUAT.MS.MA.ZS,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",4
+SE.TER.CUAT.DO.MA.ZS,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",4
+SE.TER.CUAT.DO.ZS,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",4
+SE.XPD.SECO.ZS,Expenditure on secondary education (% of government expenditure on education),4
+SE.XPD.TERT.ZS,Expenditure on tertiary education (% of government expenditure on education),4
+SE.XPD.PRIM.PC.ZS,"Government expenditure per student, primary (% of GDP per capita)",4
+SE.XPD.SECO.PC.ZS,"Government expenditure per student, secondary (% of GDP per capita)",4
+SE.XPD.TERT.PC.ZS,"Government expenditure per student, tertiary (% of GDP per capita)",4
+SE.PRM.GINT.FE.ZS,"Gross intake ratio in first grade of primary education, female (% of relevant age group)",4
+SE.PRM.GINT.MA.ZS,"Gross intake ratio in first grade of primary education, male (% of relevant age group)",4
+SE.PRM.GINT.ZS,"Gross intake ratio in first grade of primary education, total (% of relevant age group)",4
+SL.TLF.TOTL.FE.ZS,"Labor force, female (% of total labor force)",4
+SE.ADT.LITR.FE.ZS,"Literacy rate, adult female (% of females ages 15 and above)",4
+SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)",4
+SE.ADT.1524.LT.MA.ZS,"Literacy rate, youth male (% of males ages 15-24)",4
+SE.SEC.CMPT.LO.MA.ZS,"Lower secondary completion rate, male (% of relevant age group)",4
+SE.SEC.CMPT.LO.ZS,"Lower secondary completion rate, total (% of relevant age group)",4
+SE.SEC.AGES,Lower secondary school starting age (years),4
+SE.PRM.NINT.ZS,Net intake rate in grade 1 (% of official school-age population),4
+SE.PRM.NINT.MA.ZS,"Net intake rate in grade 1, male (% of official school-age population)",4
+SH.DTH.1519,Number of deaths ages 15-19 years,4
+SH.DTH.2024,Number of deaths ages 20-24 years,4
+SH.DTH.0509,Number of deaths ages 5-9 years,4
+SE.PRM.OENR.FE.ZS,"Over-age students, primary, female (% of female enrollment)",4
+SE.PRM.PRS5.FE.ZS,"Persistence to grade 5, female (% of cohort)",4
+SE.PRM.PRSL.MA.ZS,"Persistence to last grade of primary, male (% of cohort)",4
+SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),4
+SE.PRM.CMPT.MA.ZS,"Primary completion rate, male (% of relevant age group)",4
+SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",4
+SE.PRM.ENRL,"Primary education, pupils",4
+SE.PRM.TCHR,"Primary education, teachers",4
+SE.PRM.TCHR.FE.ZS,"Primary education, teachers (% female)",4
+SE.PRM.AGES,Primary school starting age (years),4
+SH.DYN.1014,"Probability of dying among adolescents ages 10-14 years (per 1,000)",4
+SH.DYN.2024,"Probability of dying among youth ages 20-24 years (per 1,000)",4
+SE.SEC.PROG.FE.ZS,"Progression to secondary school, female (%)",4
+SE.SEC.PROG.MA.ZS,"Progression to secondary school, male (%)",4
+SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary",4
+SE.PRE.ENRL.TC.ZS,"Pupil-teacher ratio, preprimary",4
+SE.SEC.ENRL.TC.ZS,"Pupil-teacher ratio, secondary",4
+SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary",4
+SE.PRM.REPT.MA.ZS,"Repeaters, primary, male (% of male enrollment)",4
+SE.PRE.ENRR,"School enrollment, preprimary (% gross)",4
+SE.PRE.ENRR.MA,"School enrollment, preprimary, male (% gross)",4
+SE.PRM.NENR,"School enrollment, primary (% net)",4
+SE.PRM.ENRR.FE,"School enrollment, primary, female (% gross)",4
+SE.PRM.NENR.FE,"School enrollment, primary, female (% net)",4
+SE.PRM.NENR.MA,"School enrollment, primary, male (% net)",4
+SE.PRM.PRIV.ZS,"School enrollment, primary, private (% of total primary)",4
+SE.ENR.SECO.FM.ZS,"School enrollment, secondary (gross), gender parity index (GPI)",4
+SE.SEC.ENRR.FE,"School enrollment, secondary, female (% gross)",4
+SE.SEC.ENRR.MA,"School enrollment, secondary, male (% gross)",4
+SE.TER.ENRR,"School enrollment, tertiary (% gross)",4
+SE.ENR.TERT.FM.ZS,"School enrollment, tertiary (gross), gender parity index (GPI)",4
+SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)",4
+SE.SEC.ENRL.GC.FE.ZS,"Secondary education, general pupils (% female)",4
+SE.SEC.ENRL,"Secondary education, pupils",4
+SE.SEC.ENRL.FE.ZS,"Secondary education, pupils (% female)",4
+SE.SEC.TCHR.FE.ZS,"Secondary education, teachers (% female)",4
+SE.SEC.ENRL.VO,"Secondary education, vocational pupils",4
+SE.TER.TCHR.FE.ZS,"Tertiary education, academic staff (% female)",4
+SE.SEC.TCAQ.LO.ZS,Trained teachers in lower secondary education (% of total teachers),4
+SE.SEC.TCAQ.LO.MA.ZS,"Trained teachers in lower secondary education, male (% of male teachers)",4
+SE.PRM.TCAQ.ZS,Trained teachers in primary education (% of total teachers),4
+SE.SEC.TCAQ.MA.ZS,"Trained teachers in secondary education, male (% of male teachers)",4
+SE.SEC.TCAQ.UP.MA.ZS,"Trained teachers in upper secondary education, male (% of male teachers)",4
+SL.UEM.TOTL.FE.ZS,"Unemployment, female (% of female labor force) (modeled ILO estimate)",4
+SL.UEM.TOTL.MA.ZS,"Unemployment, male (% of male labor force) (modeled ILO estimate)",4
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4
+SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)",8
+SP.POP.DPND.OL,"Age dependency ratio, old (% of working-age population)",8
+SH.HIV.PMTC.ZS,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),8
+SH.STA.ARIC.ZS,ARI treatment (% of children under 5 taken to a health provider),8
+SP.REG.BRTH.ZS,Completeness of birth registration (%),8
+SP.REG.BRTH.RU.ZS,"Completeness of birth registration, rural (%)",8
+SH.CON.1524.FE.ZS,"Condom use, population ages 15-24, female (% of females ages 15-24)",8
+SH.XPD.CHEX.PC.CD,Current health expenditure per capita (current US$),8
+SH.FPL.SATM.ZS,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),8
+SH.STA.ORTH,Diarrhea treatment (% of children under 5 who received ORS packet),8
+SH.XPD.GHED.GE.ZS,Domestic general government health expenditure (% of general government expenditure),8
+SH.XPD.GHED.PC.CD,Domestic general government health expenditure per capita (current US$),8
+SH.XPD.GHED.PP.CD,"Domestic general government health expenditure per capita, PPP (current international $)",8
+SH.XPD.PVTD.PC.CD,Domestic private health expenditure per capita (current US$),8
+SH.XPD.EHEX.CH.ZS,External health expenditure (% of current health expenditure),8
+SH.XPD.EHEX.PC.CD,External health expenditure per capita (current US$),8
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",8
+SM.POP.TOTL.ZS,International migrant stock (% of population),8
+SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)",8
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",8
+SH.DYN.NCOM.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",8
+SH.STA.POIS.P5.MA,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",8
+SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",8
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",8
+SP.DYN.IMRT.MA.IN,"Mortality rate, infant, male (per 1,000 live births)",8
+SH.DYN.NMRT,"Mortality rate, neonatal (per 1,000 live births)",8
+SH.SGR.PROC.P5,"Number of surgical procedures (per 100,000 population)",8
+SH.MED.NUMW.P3,"Nurses and midwives (per 1,000 people)",8
+SH.XPD.OOPC.PC.CD,Out-of-pocket expenditure per capita (current US$),8
+SH.XPD.OOPC.PP.CD,"Out-of-pocket expenditure per capita, PPP (current international $)",8
+SH.H2O.BASW.RU.ZS,"People using at least basic drinking water services, rural (% of rural population)",8
+SH.H2O.BASW.UR.ZS,"People using at least basic drinking water services, urban (% of urban population)",8
+SH.STA.HYGN.ZS,People with basic handwashing facilities including soap and water (% of population),8
+SH.STA.HYGN.UR.ZS,"People with basic handwashing facilities including soap and water, urban (% of urban population)",8
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",8
+SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",8
+SP.POP.0014.TO,"Population ages 0-14, total",8
+SP.POP.4044.FE.5Y,"Population ages 40-44, female (% of female population)",8
+SP.POP.5559.MA.5Y,"Population ages 55-59, male (% of male population)",8
+SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),8
+SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",8
+SP.POP.6569.FE.5Y,"Population ages 65-69, female (% of female population)",8
+SP.POP.7579.FE.5Y,"Population ages 75-79, female (% of female population)",8
+SP.POP.80UP.MA.5Y,"Population ages 80 and above, male (% of male population)",8
+SP.POP.TOTL.FE.IN,"Population, female",8
+SP.POP.TOTL.MA.IN,"Population, male",8
+SP.POP.TOTL,"Population, total",8
+SH.ANM.CHLD.ZS,Prevalence of anemia among children (% of children ages 6-59 months),8
+SH.PRG.ANEM,Prevalence of anemia among pregnant women (%),8
+SH.PRV.SMOK.FE,"Prevalence of current tobacco use, females (% of female adults)",8
+SH.HIV.1524.MA.ZS,"Prevalence of HIV, male (% ages 15-24)",8
+SN.ITK.MSFI.ZS,Prevalence of moderate or severe food insecurity in the population (%),8
+SH.SVR.WAST.ZS,"Prevalence of severe wasting, weight for height (% of children under 5)",8
+SH.SVR.WAST.MA.ZS,"Prevalence of severe wasting, weight for height, male (% of children under 5)",8
+SH.STA.MALN.ZS,"Prevalence of underweight, weight for age (% of children under 5)",8
+SH.STA.MALN.MA.ZS,"Prevalence of underweight, weight for age, male (% of children under 5)",8
+SH.STA.WAST.ZS,"Prevalence of wasting, weight for height (% of children under 5)",8
+SH.STA.WAST.FE.ZS,"Prevalence of wasting, weight for height, female (% of children under 5)",8
+SH.UHC.FBPR.ZS,Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%),8
+SH.UHC.TOT1.ZS,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),8
+SM.POP.REFG.OR,Refugee population by country or territory of origin,8
+SH.ALC.PCAP.LI,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",8
+SG.VAW.BURN.ZS,Women who believe a husband is justified in beating his wife when she burns the food (%),8
+SH.HIV.INCD.YG,Young people (ages 15-24) newly infected with HIV,8
+SP.POP.DPND,Age dependency ratio (% of working-age population),8
+SP.POP.DPND.YG,"Age dependency ratio, young (% of working-age population)",8
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),8
+SH.HIV.INCD.14,Children (ages 0-14) newly infected with HIV,8
+SP.REG.BRTH.MA.ZS,"Completeness of birth registration, male (%)",8
+SH.CON.1524.MA.ZS,"Condom use, population ages 15-24, male (% of males ages 15-24)",8
+SN.ITK.SALT.ZS,Consumption of iodized salt (% of households),8
+SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",8
+SH.XPD.CHEX.PP.CD,"Current health expenditure per capita, PPP (current international $)",8
+SP.DYN.CDRT.IN,"Death rate, crude (per 1,000 people)",8
+SH.XPD.GHED.CH.ZS,Domestic general government health expenditure (% of current health expenditure),8
+SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),8
+SH.XPD.PVTD.CH.ZS,Domestic private health expenditure (% of current health expenditure),8
+SH.XPD.PVTD.PP.CD,"Domestic private health expenditure per capita, PPP (current international $)",8
+SH.STA.FGMS.ZS,Female genital mutilation prevalence (%),8
+SP.HOU.FEMA.ZS,Female headed households (% of households with a female head),8
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",8
+SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)",8
+SH.MMR.RISK.ZS,Lifetime risk of maternal death (%),8
+SH.MMR.RISK,Lifetime risk of maternal death (1 in: rate varies by country),8
+SH.STA.MMRT.NE,"Maternal mortality ratio (national estimate, per 100,000 live births)",8
+SH.STA.AIRP.FE.P5,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",8
+SH.STA.AIRP.MA.P5,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",8
+SH.STA.POIS.P5,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",8
+SH.STA.WASH.P5,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",8
+SP.DYN.IMRT.FE.IN,"Mortality rate, infant, female (per 1,000 live births)",8
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",8
+SH.DTH.MORT,Number of under-five deaths,8
+SH.STA.ODFC.ZS,People practicing open defecation (% of population),8
+SH.STA.BASS.RU.ZS,"People using at least basic sanitation services, rural (% of rural population)",8
+SH.H2O.SMDW.UR.ZS,"People using safely managed drinking water services, urban (% of urban population)",8
+SH.STA.SMSS.UR.ZS,"People using safely managed sanitation services, urban (% of urban population)",8
+SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),8
+SP.POP.0014.MA.IN,"Population ages 0-14, male",8
+SP.POP.0509.FE.5Y,"Population ages 05-09, female (% of female population)",8
+SP.POP.0509.MA.5Y,"Population ages 05-09, male (% of male population)",8
+SP.POP.1564.TO,"Population ages 15-64, total",8
+SP.POP.2024.FE.5Y,"Population ages 20-24, female (% of female population)",8
+SP.POP.2529.FE.5Y,"Population ages 25-29, female (% of female population)",8
+SP.POP.3539.FE.5Y,"Population ages 35-39, female (% of female population)",8
+SP.POP.4549.FE.5Y,"Population ages 45-49, female (% of female population)",8
+SP.POP.4549.MA.5Y,"Population ages 45-49, male (% of male population)",8
+SP.POP.6569.MA.5Y,"Population ages 65-69, male (% of male population)",8
+SP.POP.7579.MA.5Y,"Population ages 75-79, male (% of male population)",8
+SP.POP.80UP.FE.5Y,"Population ages 80 and above, female (% of female population)",8
+SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",8
+SH.STA.ANVC.ZS,Pregnant women receiving prenatal care (%),8
+SH.HIV.1524.FE.ZS,"Prevalence of HIV, female (% ages 15-24)",8
+SH.STA.OWGH.FE.ZS,"Prevalence of overweight, weight for height, female (% of children under 5)",8
+SN.ITK.SVFI.ZS,Prevalence of severe food insecurity in the population (%),8
+SH.SVR.WAST.FE.ZS,"Prevalence of severe wasting, weight for height, female (% of children under 5)",8
+SH.STA.STNT.ME.ZS,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",8
+SH.STA.STNT.FE.ZS,"Prevalence of stunting, height for age, female (% of children under 5)",8
+SH.STA.STNT.MA.ZS,"Prevalence of stunting, height for age, male (% of children under 5)",8
+SH.STA.MALN.FE.ZS,"Prevalence of underweight, weight for age, female (% of children under 5)",8
+SH.UHC.NOPR.ZS,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),8
+SP.POP.BRTH.MF,Sex ratio at birth (male births per female births),8
+SH.STA.SUIC.MA.P5,"Suicide mortality rate, male (per 100,000 male population)",8
+SH.ALC.PCAP.MA.LI,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",8
+SH.MLR.NETS.ZS,Use of insecticide-treated bed nets (% of under-5 population),8
+SN.ITK.VITA.ZS,Vitamin A supplementation coverage rate (% of children ages 6-59 months),8
+SG.VAW.ARGU.ZS,Women who believe a husband is justified in beating his wife when she argues with him (%),8
+SH.HIV.INCD.TL,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,8
+SH.HIV.ARTC.ZS,Antiretroviral therapy coverage (% of people living with HIV),8
+SP.DYN.CBRT.IN,"Birth rate, crude (per 1,000 people)",8
+SH.MED.CMHW.P3,"Community health workers (per 1,000 people)",8
+SP.REG.BRTH.FE.ZS,"Completeness of birth registration, female (%)",8
+SP.REG.DTHS.ZS,Completeness of death registration with cause-of-death information (%),8
+SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",8
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),8
+SH.XPD.EHEX.PP.CD,"External health expenditure per capita, PPP (current international $)",8
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",8
+SH.HIV.INCD.ZS,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",8
+SH.HIV.INCD.TL.P3,"Incidence of HIV, all (per 1,000 uninfected population)",8
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",8
+SH.STA.BRTW.ZS,Low-birthweight babies (% of births),8
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",8
+SH.DYN.NCOM.FE.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",8
+SH.DYN.NCOM.MA.ZS,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",8
+SH.STA.AIRP.P5,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",8
+SH.STA.POIS.P5.FE,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",8
+SH.VAC.TTNS.ZS,Newborns protected against tetanus (%),8
+SH.MMR.DTHS,Number of maternal deaths,8
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),8
+SH.STA.ODFC.RU.ZS,"People practicing open defecation, rural (% of rural population)",8
+SH.STA.BASS.UR.ZS,"People using at least basic sanitation services, urban (% of urban population)",8
+SH.H2O.SMDW.ZS,People using safely managed drinking water services (% of population),8
+SH.STA.SMSS.ZS,People using safely managed sanitation services (% of population),8
+SH.STA.HYGN.RU.ZS,"People with basic handwashing facilities including soap and water, rural (% of rural population)",8
+SP.POP.0004.FE.5Y,"Population ages 00-04, female (% of female population)",8
+SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",8
+SP.POP.1014.FE.5Y,"Population ages 10-14, female (% of female population)",8
+SP.POP.1519.MA.5Y,"Population ages 15-19, male (% of male population)",8
+SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),8
+SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",8
+SP.POP.1564.MA.IN,"Population ages 15-64, male",8
+SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",8
+SP.POP.2024.MA.5Y,"Population ages 20-24, male (% of male population)",8
+SP.POP.3034.MA.5Y,"Population ages 30-34, male (% of male population)",8
+SP.POP.4044.MA.5Y,"Population ages 40-44, male (% of male population)",8
+SP.POP.5054.FE.5Y,"Population ages 50-54, female (% of female population)",8
+SP.POP.6064.FE.5Y,"Population ages 60-64, female (% of female population)",8
+SP.POP.7074.FE.5Y,"Population ages 70-74, female (% of female population)",8
+SH.ANM.NPRG.ZS,Prevalence of anemia among non-pregnant women (% of women ages 15-49),8
+SH.ANM.ALLW.ZS,Prevalence of anemia among women of reproductive age (% of women ages 15-49),8
+SH.PRV.SMOK.MA,"Prevalence of current tobacco use, males (% of male adults)",8
+SH.STA.OWGH.ME.ZS,"Prevalence of overweight (modeled estimate, % of children under 5)",8
+SH.STA.OWGH.MA.ZS,"Prevalence of overweight, weight for height, male (% of children under 5)",8
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",8
+SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),8
+SH.UHC.NOP1.ZS,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),8
+SH.UHC.FBP2.ZS,Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),8
+SH.UHC.TOT2.ZS,Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),8
+SH.UHC.OOPC.10.ZS,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),8
+SH.UHC.OOPC.25.ZS,Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),8
+SM.POP.REFG,Refugee population by country or territory of asylum,8
+SH.SGR.CRSK.ZS,Risk of catastrophic expenditure for surgical care (% of people at risk),8
+SH.SGR.IRSK.ZS,Risk of impoverishing expenditure for surgical care (% of people at risk),8
+SH.STA.SUIC.FE.P5,"Suicide mortality rate, female (per 100,000 female population)",8
+SP.MTR.1519.ZS,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),8
+SH.TBS.DTEC.ZS,"Tuberculosis case detection rate (%, all forms)",8
+SH.TBS.CURE.ZS,Tuberculosis treatment success rate (% of new cases),8
+SH.UHC.SRVS.CV.XD,UHC service coverage index,8
+SP.UWT.TFRT,Unmet need for contraception (% of married women ages 15-49),8
+SG.VAW.REAS.ZS,Women who believe a husband is justified in beating his wife (any of five reasons) (%),8
+SG.VAW.REFU.ZS,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),8
+SH.HIV.INCD,Adults (ages 15-49) newly infected with HIV,8
+SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",8
+SH.DTH.INJR.ZS,"Cause of death, by injury (% of total)",8
+SH.DTH.NCOM.ZS,"Cause of death, by non-communicable diseases (% of total)",8
+SH.HIV.0014,Children (0-14) living with HIV,8
+SH.MLR.TRET.ZS,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),8
+SP.REG.BRTH.UR.ZS,"Completeness of birth registration, urban (%)",8
+SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),8
+SH.STA.ORCF.ZS,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),8
+SH.STA.BFED.ZS,Exclusive breastfeeding (% of children under 6 months),8
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",8
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",8
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",8
+SH.HIV.INCD.YG.P3,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",8
+SM.POP.TOTL,"International migrant stock, total",8
+SH.STA.TRAF.P5,"Mortality caused by road traffic injury (per 100,000 population)",8
+SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",8
+SH.DYN.MORT.FE,"Mortality rate, under-5, female (per 1,000 live births)",8
+SH.DYN.MORT.MA,"Mortality rate, under-5, male (per 1,000 live births)",8
+SM.POP.NETM,Net migration,8
+SH.DTH.IMRT,Number of infant deaths,8
+SH.DTH.NMRT,Number of neonatal deaths,8
+SH.STA.ODFC.UR.ZS,"People practicing open defecation, urban (% of urban population)",8
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),8
+SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),8
+SH.H2O.SMDW.RU.ZS,"People using safely managed drinking water services, rural (% of rural population)",8
+SH.STA.SMSS.RU.ZS,"People using safely managed sanitation services, rural (% of rural population)",8
+SP.POP.0004.MA.5Y,"Population ages 00-04, male (% of male population)",8
+SP.POP.0014.FE.IN,"Population ages 0-14, female",8
+SP.POP.1014.MA.5Y,"Population ages 10-14, male (% of male population)",8
+SP.POP.1519.FE.5Y,"Population ages 15-19, female (% of female population)",8
+SP.POP.1564.FE.IN,"Population ages 15-64, female",8
+SP.POP.2529.MA.5Y,"Population ages 25-29, male (% of male population)",8
+SP.POP.3034.FE.5Y,"Population ages 30-34, female (% of female population)",8
+SP.POP.3539.MA.5Y,"Population ages 35-39, male (% of male population)",8
+SP.POP.5054.MA.5Y,"Population ages 50-54, male (% of male population)",8
+SP.POP.5559.FE.5Y,"Population ages 55-59, female (% of female population)",8
+SP.POP.6064.MA.5Y,"Population ages 60-64, male (% of male population)",8
+SP.POP.65UP.FE.IN,"Population ages 65 and above, female",8
+SP.POP.65UP.MA.IN,"Population ages 65 and above, male",8
+SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",8
+SP.POP.65UP.TO,"Population ages 65 and above, total",8
+SP.POP.7074.MA.5Y,"Population ages 70-74, male (% of male population)",8
+SP.POP.GROW,Population growth (annual %),8
+SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",8
+SH.PRV.SMOK,Prevalence of current tobacco use (% of adults),8
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",8
+SH.STA.OWGH.ZS,"Prevalence of overweight, weight for height (% of children under 5)",8
+SH.STA.WAST.MA.ZS,"Prevalence of wasting, weight for height, male (% of children under 5)",8
+SH.UHC.NOP2.ZS,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),8
+SH.UHC.FBP1.ZS,Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),8
+SH.UHC.TOTR.ZS,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),8
+SG.VAW.1549.ZS,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),8
+SH.MED.SAOP.P5,"Specialist surgical workforce (per 100,000 population)",8
+SH.STA.SUIC.P5,"Suicide mortality rate (per 100,000 population)",8
+SP.DYN.TO65.FE.ZS,"Survival to age 65, female (% of cohort)",8
+SP.DYN.TO65.MA.ZS,"Survival to age 65, male (% of cohort)",8
+SH.ALC.PCAP.FE.LI,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",8
+SP.DYN.WFRT,Wanted fertility rate (births per woman),8
+SG.VAW.GOES.ZS,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),8
+SG.VAW.NEGL.ZS,Women who believe a husband is justified in beating his wife when she neglects the children (%),8
+SP.M15.2024.FE.ZS,Women who were first married by age 15 (% of women ages 20-24),8
+SP.M18.2024.FE.ZS,Women who were first married by age 18 (% of women ages 20-24),8
+SH.DYN.AIDS.FE.ZS,Women's share of population ages 15+ living with HIV (%),8
+BM.GSR.ROYL.CD,"Charges for the use of intellectual property, payments (BoP, current US$)",14
+BX.GSR.ROYL.CD,"Charges for the use of intellectual property, receipts (BoP, current US$)",14
+TX.VAL.TECH.MF.ZS,High-technology exports (% of manufactured exports),14
+TX.VAL.TECH.CD,High-technology exports (current US$),14
+IP.PAT.NRES,"Patent applications, nonresidents",14
+IP.PAT.RESD,"Patent applications, residents",14
+GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),14
+SP.POP.SCIE.RD.P6,Researchers in R&D (per million people),14
+IP.JRN.ARTC.SC,Scientific and technical journal articles,14
+SP.POP.TECH.RD.P6,Technicians in R&D (per million people),14

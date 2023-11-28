@@ -100,7 +100,7 @@
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Dashboard</h3>
   </div>
 
-  <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/326ca6cc-bcb6-4857-b2c6-7c8e2e085d61/page/2TPiD" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe width="600" height="450" src="https://app.powerbi.com/view?r=eyJrIjoiYTZhZDgxMTctN2EzYS00ZWVmLThmZTItYWY0OWUxNzJiYmY4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" style="border:0" allowfullscreen></iframe>
 
   <!-- Contact Section -->
   <div class="w3-container w3-padding-32" id="contact">

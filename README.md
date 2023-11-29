@@ -49,6 +49,7 @@ Se llevarán a cabo tareas de ingeniería y análisis de datos con el objetivo d
 
 [Presentation Sprint 2](https://docs.google.com/presentation/d/1F_wdeTkU0gY0QMIVMa2L5YlaUPRAYAv0Ixwla1Bgliw/edit?usp=sharing)
 
+[Presentation Sprint 3](https://docs.google.com/presentation/d/15QUuCkMdn5fQb2FZlQiUcRvP2D8FFW4DXFQ4tA0wlks/edit?usp=sharing)
 
 [Video Carga Incremental](https://drive.google.com/file/d/1JNPeSrHK4xp8YUxo0ensJmAqQNl7OTgf/view?usp=sharing)
 

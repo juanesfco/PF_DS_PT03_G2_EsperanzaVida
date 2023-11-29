@@ -16,11 +16,11 @@
 
 # **Autores**
 
-- Ducca, Gonzalo [LinkedIn](www.linkedin.com/in/gonzalo-ducca-b079011b2) | [GitHub](www.github.com/gonducca)
-- Madoery, Carlos [LinkedIn](www.linkedin.com/in/carlosmadoery) | [GitHub](www.github.com/CarliMadoery)
-- Bertone, Juan Pablo [LinkedIn](www.linkedin.com/in/jpbertone) | [GitHub](www.github.com/JPBertonee)
-- Flórez Coronel, Juan Esteban [LinkedIn](www.linkedin.com/in/jefc) | [GitHub](www.github.com/juanesfco)
-- Caputa, Valentino [LinkedIn](www.linkedin.com/in/valentino-caputa-700121272) | [GitHub](www.github.com/valentinocaputa)
+- Ducca, Gonzalo [LinkedIn](https://linkedin.com/in/gonzalo-ducca-b079011b2) | [GitHub](https://github.com/gonducca)
+- Madoery, Carlos [LinkedIn](https://linkedin.com/in/carlosmadoery) | [GitHub](https://github.com/CarliMadoery)
+- Bertone, Juan Pablo [LinkedIn](https://linkedin.com/in/jpbertone) | [GitHub](https://github.com/JPBertonee)
+- Flórez Coronel, Juan Esteban [LinkedIn](https://linkedin.com/in/jefc) | [GitHub](https://github.com/juanesfco)
+- Caputa, Valentino [LinkedIn](https://linkedin.com/in/valentino-caputa-700121272) | [GitHub](https://github.com/valentinocaputa)
   
 # **Introducción** 
 

@@ -12,6 +12,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+# **Autores**
+
+- Ducca, Gonzalo
+- Madoery, Carlos
+- Bertone, Juan Pablo
+- Flórez Coronel, Juan Esteban
+- Caputa, Valentino
   
 # **Introducción** 
 

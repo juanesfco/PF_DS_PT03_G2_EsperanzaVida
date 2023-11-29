@@ -21,7 +21,7 @@ El objetivo de este proyecto es crear un producto de consulta y predicción, don
 
 Los 30 países a analizar son: Argentina, Australia, Bolivia, Brasil, Canadá, Suiza, Chile, China, Colombia, Cuba, Alemania, República Dominicana, España, Finlandia, Francia, Reino Unido, India, Japón, Corea, México, Noruega, Nueva Zelanda, Perú, Qatar, Singapur, El Salvador, Siria, Uruguay, Estados Unidos y Venezuela.
 
-#**Contribuciones**
+# **Contribuciones**
 
 Este proyecto busca contribuir al conocimiento científico en el campo de la salud pública y el desarrollo socioeconómico. Se espera que los resultados y las conclusiones obtenidos brinden información valiosa para las partes interesadas, los responsables de la formulación de políticas y aquellos interesados en mejorar la calidad de vida y el bienestar de las poblaciones a nivel mundial.
 
@@ -39,7 +39,7 @@ Requisitos del proyecto: [Project Description](https://github.com/soyHenry/PF_DS
 Sitio web [planyourage.site](http://www.planyourage.site/)
 
 
-#**Sprints y Contenido de Interés**
+# **Sprints y Contenido de Interés**
 
 [Presentation Sprint 1](https://docs.google.com/presentation/d/1pUb3gqkp1Wir2-lxi2QUxNd-KVuYR7iF1GJpuHLuXmk/edit?usp=sharing)
 

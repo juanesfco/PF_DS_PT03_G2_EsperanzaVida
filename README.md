@@ -17,7 +17,7 @@
 
 El objetivo de este proyecto es crear un producto de consulta y predicción, donde a partir de información obtenida de la API banco mundial, se pueda tener un seguimiento y una estimación de la esperanza de vida al nacer dependiendo de 5 factores principales: Economía, Salud, Ciencia y Tecnología, Educación y Ámbito Social. En el análisis se tienen en cuenta 30 países y los últimos 35 años. 
 
-Requisitos del proyecto: [Project Description](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/esperanza_vida.md).
+Requisitos del proyecto: [Descripción](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/esperanza_vida.md).
 
 # **Contexto**
 

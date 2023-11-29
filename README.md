@@ -15,11 +15,7 @@
 
 # **Autores**
 
-- Ducca, Gonzalo
-- Madoery, Carlos
-- Bertone, Juan Pablo
-- Flórez Coronel, Juan Esteban
-- Caputa, Valentino
+Ducca, Gonzalo | Madoery, Carlos | Bertone, Juan Pablo | Flórez Coronel, Juan Esteban | Caputa, Valentino
   
 # **Introducción** 
 

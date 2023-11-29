@@ -73,13 +73,20 @@
 
   <!-- Contact Section -->
   <div class="w3-container w3-padding-32" id="contact">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Calculadora</h3>
-    <p>Entra las variables.</p>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Calculadora de Esperanza de Vida</h3>
+    <p>Entre el valor de las variables.</p>
     <form action="index.php" method="post">
-      <input class="w3-input w3-border" type="text" placeholder="X1" required name="X1">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="X2" required name="X2">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="X3" required name="X3">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="X4" required name="X4">
+      <input class="w3-input w3-border" type="text" placeholder="Año" required name="X1">
+      <input class="w3-input w3-border" type="text" placeholder="Patentes" required name="X2">
+      <input class="w3-input w3-border" type="text" placeholder="Balance Comercial (US$)" required name="X3">
+      <input class="w3-input w3-border" type="text" placeholder="PIB Crecimiento (%Anual)" required name="X4">
+      <input class="w3-input w3-border" type="text" placeholder="PIB per Capita (US$)" required name="X5">
+      <input class="w3-input w3-border" type="text" placeholder="INB per Capita (US$)" required name="X6">
+      <input class="w3-input w3-border" type="text" placeholder="Educación (%PIB)" required name="X7">
+      <input class="w3-input w3-border" type="text" placeholder="Mortalidad 5 años" required name="X8">
+      <input class="w3-input w3-border" type="text" placeholder="Salud (%PIB)" required name="X9">
+      <input class="w3-input w3-border" type="text" placeholder="Desempleo" required name="X10">
+      <input class="w3-input w3-border" type="text" placeholder="Homicidios" required name="X11">
       <button class="w3-button w3-black w3-section" type="submit">
         <i class="fa fa-paper-plane"></i> Calcular
       </button>
@@ -93,19 +100,36 @@
 if (isset($_POST['X1'],
           $_POST['X2'],
           $_POST['X3'],
-          $_POST['X4']
+          $_POST['X4'],
+          $_POST['X5'],
+          $_POST['X6'],
+          $_POST['X7'],
+          $_POST['X8'],
+          $_POST['X9'],
+          $_POST['X10'],
+          $_POST['X11']
           )) {
 
         $X1 = $_POST['X1'];
         $X2 = $_POST['X2'];
         $X3 = $_POST['X3'];
         $X4 = $_POST['X4'];
+        $X5 = $_POST['X5'];
+        $X6 = $_POST['X6'];
+        $X7 = $_POST['X7'];
+        $X8 = $_POST['X8'];
+        $X9 = $_POST['X9'];
+        $X10 = $_POST['X10'];
+        $X11 = $_POST['X11'];
 
-        $preCommand = 'python3 model.py'.' '.$X1.' '.$X2.' '.$X3.' '.$X4;
+        $preCommand = 'python3 model.py'.' '.$X1.' '.$X2.' '.$X3.' '.$X4.' '.$X5.' '.$X6.' '.$X7.' '.$X8.' '.$X9.' '.$X10.' '.$X11;
         $command = escapeshellcmd($preCommand);
         $output = shell_exec($command);
         
-        echo '<p>La esperanza de vida de un niño nacido ahora es '.$output.'. </p>';
+        echo '<p>La esperanza de vida de un bebé nacido en el año '.$X1.', en el cuál hubo una cantidad de patentes de '.$X2.'
+        , un balance comercial de '.$X3.'$, un PIB de crecimiendo de '.$X4.'%, un PIB per Capita de '.$X5.'$, un INB per Capita de '.$X6.'$
+        , un porcentade del PIB invertido en educación de '.$X7.' y en salud de '.$X9.', una tasa de mortalidad de '.$X8.', una tasa de desempleo de '.$X10.'
+        , y una taza de homocidios de '.$X11.', es de '.$output.'. </p>';
         } 
 ?>
 

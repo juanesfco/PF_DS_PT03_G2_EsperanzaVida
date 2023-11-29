@@ -1,0 +1,9 @@
+functions-framework==3.*
+wbgapi
+pandas
+google-cloud-bigquery[pandas]
+google-cloud-storage
+pyarrow
+pyjstat
+numpy
+statsmodels

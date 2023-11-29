@@ -5,13 +5,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 </head>
 <body>
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>HENRY</b> Esperanza de Vida</a>
+    <a href="#home" class="w3-bar-item w3-button"> <img class="w3-image" src="Logos/logoHeader_22.png" alt="header" height="22"> Esperanza de Vida</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
       <a href="#projects" class="w3-bar-item w3-button">Inicio</a>
@@ -25,7 +26,8 @@
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
   <img class="w3-image" src="Logos/bannerPagina.jpg" alt="Banner" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>HENRY</b></span> <span class="w3-hide-small w3-text-dark-grey">Esperanza de Vida</span></h1>
+    <h1 class="w3-jumbo w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><img class="w3-image" src="Logos/logoHeader_neg.png" alt="header" height="30"></span> </h1>
+    <h2><span class="w3-hide-medium w3-text-dark-grey">Esperanza de Vida</span>  </h2>
   </div>
 </header>
 
@@ -34,34 +36,32 @@
 
   <!-- Project Section -->
   <div class="w3-container w3-padding-32" id="projects">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Inicio</h3>
-    <p>Consultamos bases de datos del Banco Mundial y decidimos utilizar como referencia temas clave que proporcionan indicadores que influyen en la esperanza de vida de los habitantes de un país. Estos temas seleccionados son la educación, la salud, la economía, el desarrollo de la ciencia y la tecnología y el ámbito social.
-      Planeamos recopilar indicadores de cada tema, crear las bases de datos con las que queremos trabajar y luego vincular estas variables para establecer relaciones. Visualizamos este proyecto como un producto que se puede ofrecer a una empresa que busque invertir en ciencia y desarrollo.
-      Una vez completado todo el trabajo de análisis de datos, crearemos modelos de aprendizaje automático especificando ciertos parámetros, como el porcentaje del PIB invertido en educación o ciencia. Estos modelos luego nos proporcionarán una esperanza de vida estimada para un país en particular.
-      </p>
+    <h3 class="w3-large w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>Inicio</b></span></h3>
+    <h4>Explora el Futuro del Bienestar Social con Analytics Lab, la consultora de datos que resuelve desafíos claves para los gobiernos. ¡Desata el poder de los datos y toma decisiones estratégicas efectivas!
+    </h4>
       <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Equipo de Trabajo</h3>
   </div>
 
   <div class="w3-row-padding">
     <div class="w3-col w3-display-container" style="width:20%">
       <div class="w3-display-topleft w3-black w3-padding">Gonzalo</div>
-      <img src="Logos/gonza.jpeg" alt="gonza" style="width:100%">
+      <a href="https://www.linkedin.com/in/gonzalo-ducca-b079011b2/"><img src="Logos/gonza.jpeg" alt="gonza" style="width:100%"></a>
     </div>
     <div class="w3-col w3-display-container" style="width:20%">
       <div class="w3-display-topleft w3-black w3-padding">JP</div>
-      <img src="Logos/jp.jpg" alt="jp" style="width:100%">
+      <a href="https://www.linkedin.com/in/jpbertone/"><img src="Logos/jp.jpg" alt="jp" style="width:100%"></a>
     </div>
     <div class="w3-col w3-display-container" style="width:20%">
       <div class="w3-display-topleft w3-black w3-padding">Carlos</div>
-        <img src="Logos/carlos.jpeg" alt="carlos" style="width:100%">
+      <a href="https://www.linkedin.com/in/carlosmadoery/"><img src="Logos/carlos.jpeg" alt="carlos" style="width:100%"></a>
     </div>
     <div class="w3-col w3-display-container" style="width:20%">
       <div class="w3-display-topleft w3-black w3-padding">Valentino</div>
-      <img src="Logos/valentino.jpeg" alt="valen" style="width:100%">
+      <a href="https://www.linkedin.com/in/valentino-caputa-700121272/"><img src="Logos/valentino.jpeg" alt="valen" style="width:100%"></a>
     </div>
     <div class="w3-col w3-display-container" style="width:20%">
       <div class="w3-display-topleft w3-black w3-padding">Juanes</div>
-      <img src="Logos/juanes.jpeg" alt="juanes" style="width:100%">
+      <a href="https://www.linkedin.com/in/jefc/"><img src="Logos/juanes.jpeg" alt="juanes" style="width:100%"></a>
     </div>
   </div>
 
@@ -74,12 +74,19 @@
   <!-- Contact Section -->
   <div class="w3-container w3-padding-32" id="contact">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Calculadora</h3>
-    <p>Entra las variables.</p>
+    <p>Entra las variables. Entrar al <a href="https://docs.google.com/spreadsheets/d/1qexFZ3q7yl083nQM8aPYXRC3mY2ifxnW2Xc4bKL46X8/edit?usp=sharing" title="DiccDatos" target="_blank" class="w3-hover-text-green">w3.css</a> para más detalles.</p>
     <form action="/action_page.php" target="_blank">
-      <input class="w3-input w3-border" type="text" placeholder="X1" required name="X1">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="X2" required name="X2">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="X3" required name="X3">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="X4" required name="X4">
+      <input class="w3-input w3-border" type="text" placeholder="Año" required name="X1">
+      <input class="w3-input w3-border" type="text" placeholder="Patentes" required name="X2">
+      <input class="w3-input w3-border" type="text" placeholder="Balance Comercial (US$)" required name="X3">
+      <input class="w3-input w3-border" type="text" placeholder="PIB Crecimiento (%Anual)" required name="X4">
+      <input class="w3-input w3-border" type="text" placeholder="PIB per Capita (US$)" required name="X5">
+      <input class="w3-input w3-border" type="text" placeholder="INB per Capita (US$)" required name="X6">
+      <input class="w3-input w3-border" type="text" placeholder="Educación (%PIB)" required name="X7">
+      <input class="w3-input w3-border" type="text" placeholder="Mortalidad 5 años" required name="X8">
+      <input class="w3-input w3-border" type="text" placeholder="Salud (%PIB)" required name="X9">
+      <input class="w3-input w3-border" type="text" placeholder="Desempleo" required name="X10">
+      <input class="w3-input w3-border" type="text" placeholder="Homicidios" required name="X11">
       <button class="w3-button w3-black w3-section" type="submit">
         <i class="fa fa-paper-plane"></i> Calcular
       </button>

@@ -1,5 +1,0 @@
-functions-framework==3.*
-wbgapi
-pandas
-google-cloud-bigquery
-pyarrow

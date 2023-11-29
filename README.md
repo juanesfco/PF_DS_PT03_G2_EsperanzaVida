@@ -17,6 +17,8 @@
 
 El objetivo de este proyecto es crear un producto de consulta y predicción, donde a partir de información obtenida de la API banco mundial, se pueda tener un seguimiento y una estimación de la esperanza de vida al nacer dependiendo de 5 factores principales: Economía, Salud, Ciencia y Tecnología, Educación y Ámbito Social. En el análisis se tienen en cuenta 30 países y los últimos 35 años. 
 
+Requisitos del proyecto: [Project Description](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/esperanza_vida.md).
+
 # **Contexto**
 
 Los 30 países a analizar son: Argentina, Australia, Bolivia, Brasil, Canadá, Suiza, Chile, China, Colombia, Cuba, Alemania, República Dominicana, España, Finlandia, Francia, Reino Unido, India, Japón, Corea, México, Noruega, Nueva Zelanda, Perú, Qatar, Singapur, El Salvador, Siria, Uruguay, Estados Unidos y Venezuela.
@@ -27,17 +29,10 @@ Este proyecto busca contribuir al conocimiento científico en el campo de la sal
 
 Este trabajo tiene como objetivo facilitar el entendimiento de la información en el ámbito de la salud colectiva y el progreso socioeconómico. La intención del análisis es disponer información valiosa para los encargados de diseñar directrices y quienes buscan potenciar la excelencia de vida y el bienestar de las comunidades a escala global.
 
-Se llevarán a cabo tareas de ingeniería y análisis de datos con el objetivo de lograr dos productos finales disponibles en un servicio web:
+Se llevarán a cabo tareas de ingeniería y análisis de datos con el objetivo de lograr dos productos finales disponibles en un [servicio web](http://www.planyourage.site/):
 
 1.	Dashboard interactivo de consulta.
 2.	Modelo de estimación de esperanza de vida. 
-
-
-
-Requisitos del proyecto: [Project Description](https://github.com/soyHenry/PF_DS/blob/PART-TIME/Proyectos/esperanza_vida.md).
-
-Sitio web [planyourage.site](http://www.planyourage.site/)
-
 
 # **Sprints y Contenido de Interés**
 
